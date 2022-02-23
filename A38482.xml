@@ -1,0 +1,1799 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English Spira being a fearful example of an apostate who had been a preacher many years and then apostatized from his religion, miserably hanged himself, October the 13th, 1684 : giving an account of his dispair, and divers conferences had with him, by several ministers and others of his friends : together with his answer, and papers written by his own hand / left attested by Mr. T. Plant, Mr. H. Collings, Mr. B. Dennis, Mr. B. Keach.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 132 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38482</idno>
+            <idno type="STC">Wing E3121</idno>
+            <idno type="STC">ESTC R37321</idno>
+            <idno type="EEBO-CITATION">16350428</idno>
+            <idno type="OCLC">ocm 16350428</idno>
+            <idno type="VID">105323</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38482)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105323)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1091:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English Spira being a fearful example of an apostate who had been a preacher many years and then apostatized from his religion, miserably hanged himself, October the 13th, 1684 : giving an account of his dispair, and divers conferences had with him, by several ministers and others of his friends : together with his answer, and papers written by his own hand / left attested by Mr. T. Plant, Mr. H. Collings, Mr. B. Dennis, Mr. B. Keach.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Second edition.</edition>
+               </editionStmt>
+               <extent>[6], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>T. Fabian,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint lacking; imprint information suggested by Wing.</note>
+                  <note>Advertisement: p. 46.</note>
+                  <note>Imperfect: stained, faded, and cropped throughout.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Child, John, 1638?-1684.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Corinne Vieracker</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Corinne Vieracker</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105323:1"/>
+            <pb facs="tcp:105323:1" rendition="simple:additions"/>
+            <p>THE Engliſh Spira: BEING A Fearful EXAMPLE OF AN APOSTATE, Who had been a Preacher many Years, and then Apoſtatiz<g ref="char:EOLhyphen"/>ed from his Religion; miſerably Hanged himſelf, <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> the 13th. 1684.</p>
+            <p>GIVING An Account of his Diſpair, and Divers Conferences had with him, by ſeveral Miniſters and others of his Friends.</p>
+            <p>TOGETHER With his Anſwer; and Papers Written by his own Hand.</p>
+            <p>Left Atteſted by Mr. <hi>T. Plant,</hi> Mr. <hi>H. Collings,</hi> Mr. <hi>B. Dennis.</hi> Mr. <hi>B. Keach.</hi>
+            </p>
+            <p>
+               <hi>Second Edition.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:105323:2"/>
+            <pb facs="tcp:105323:2"/>
+            <head>TO THE READER.</head>
+            <p>THAT which hath prevailed with us to publiſh this Treatiſe, is, that we might give thoſe many who have deſired it, and all that ſhall vouchſafe to read it, an impartial Account of what hath come to our knowledge concerning the Dreadful Horror of Conſcience, and Deplorable End of Mr. <hi>John Child:</hi> In his Youthful days, a zealous Profeſſor of Religion; in his Riper years, a Backſlider from God, under pretence of Change of his Opinion: A Neglecter of Publick Worſhip, not only in the way he had for<g ref="char:EOLhyphen"/>merly profest, but in that alſo which of late years, in his Diſcourſes and Arguments, he preferred before the other.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>nder the ſpecious ſhew of promoting a more full and firm <g ref="char:V">Ʋ</g>nion amongst all good Proteſtants; a great Calumniator of his Brethren, publickly charging many of them in general, as guil<g ref="char:EOLhyphen"/>ty of ſuch Crimes and Blaſphemies, as his own Knowledge and Dictates of Conſcience, at the ſeaſon when he did it, could and did teſtifie they were clear of.</p>
+            <p>What prompted him hereunto, (beſides the Hypocriſie, Pride, and Malice of his own heart) we certainly know not; but have ſome ground to ſuſpect, when he was about this evil work which cauſed his downfal, he converſed with ſome perſons, who rather promoted than cautioned him againſt it.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>nder his Temptation, we fear, he did not conſider that an<g ref="char:EOLhyphen"/>ciently-approved, uſeful, and neceſſary Caution, which the Apoſtle
+<pb n="ii" facs="tcp:105323:3"/>mentions, <hi>Be not deceived, evil communication corrupts good manners.</hi>
+            </p>
+            <p>After he was once throughly awakened with the ſence of his Sin, he fell under thoſe Horrours of Conſcience, which have not been parallel'd in any other that we have heard of, ſince the Caſe of <hi>Francis Spira,</hi> being ſo dreadful, permanent, and prevalent over him, as to reſist all Friendly Endeavours u<g ref="char:EOLhyphen"/>ſed to appeaſe his grief; which after ſeveral months abiding in the highest extremity, at length tempted and prevailed with him, by his own hands to end his miſerable Life.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>pon this occaſion we have alſo given ſome brief Hints of the Nature and Office of Conſcience, and the Obligations we are under to it. All which we recommend to the Readers ſerious conſideration, with our fervent Prayers to God, that what we have herein done, may ſucceed to his and our own Souls advantage, and peace of Conſcience, both here and hereafter.</p>
+            <p>It may be in many reſpects uſeful to take notice that the Pamphlet which was Written and Publiſhed by Mr. <hi>John Child,</hi> and which, with reſpect to the bitter Reflections and Calumnies therein cast upon his Brethren, did afterwards fill him with ſo great Horrour of Soul, as to deſtroy himſelf, bare the Title of as charitable an Argument, as could be undertaken by the best of Chriſtians.</p>
+            <div type="part">
+               <head>For a more full and firm Union amongſt all good Proteſtants.</head>
+               <p>But though in this Title his Words were (as the Pſalmist ſpeaks) <hi>ſofter than oyl,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 55.21.</note> 
+                  <hi>yet were they drawn ſwords.</hi> He put forth his hand againſt ſuch as were at peace with him; his Equals, his Acquaintance, who had walked with him to the Houſe of God in company. The ſence whereof when he was awakened to ſee and feel in his own Conſcience, the heinouſneſs of his Crime in ſlandering his Brethren, did ſo terrifie him, that it could
+<pb n="iii" facs="tcp:105323:3"/>not be diſcerned (either by his Relations, or any of thoſe many of his Brethren whom he had offended, who came to viſit him, and endeavoured to pour Balm into, bind up, and heal his deep wounds) that at any time afterwards he enjoyed any peace in his Soul.</p>
+               <p>The principal inducement to publiſh a Narrative of this Man's Trouble of Spirit, and Miſerable End, is to give an Impar<g ref="char:EOLhyphen"/>tial Account to many who deſire to be truly informed thereof, what Conferences were had with him, what Papers on this Sub<g ref="char:EOLhyphen"/>ject were left behind him, and that the whole may be a ſeaſon<g ref="char:EOLhyphen"/>able Caution to all who read them, to take heed how they do in any caſe whatſoever preſume to ſin againſt the clear Light, Knowledge, and Dictates of their own Conſcience: for which end it is intended to ſay ſomething briefly concerning the Na<g ref="char:EOLhyphen"/>ture and Office of Conſcience, and that attendance which every man is to give to it.</p>
+               <p>But for the avoiding of all ſiniſter Reflections on what is herein undertaken, the Publiſhers hereof do declare,</p>
+               <p>
+                  <hi>Firſt,</hi> That they do not aſcribe this Man's Miſerable End to any Conſciencious Change of Opinion in Matters of Religion or Worſhip, or to any Endeavour of his to propagate <g ref="char:V">Ʋ</g>nion amongst Chriſtians in a candid way, by proper Arguments; but they lay the ſtreſs of his Miſcarriage where he fixed it himſelf, that is, upon his Backſliding from the Ways of God, forſaking that which was Good, doing that which he knew to be Evil; and upon his Hypocriſie, Pride of Spirit, Covetouſneſs, and his unjuſtifiable Calumniating, Reproaching, Reviling, and Accuſing many of his Brethren of ſuch things as he knew they were not guilty: All which he acknowledged in his own Papers, and frequently charges, himſelf with.</p>
+               <p>
+                  <hi>Secondly,</hi> We are ſo far from Cenſuring any Attempts that have been made in a Chriſtian manner for a more full and firm <g ref="char:V">Ʋ</g>nion amongst all good Proteſtants, that we heartily wiſh we
+<pb n="iv" facs="tcp:105323:4"/>could ſee more Hearts (and ſuch Hands as are fitly qualified for it) at work on this Subject: for bleſſed are the Peace-makers, and the Fruits of Righteouſneſs are ſown in peace of them that make peace.</p>
+               <p>
+                  <hi>Thirdly,</hi> To ſhew our good Will to ſuch an <g ref="char:V">Ʋ</g>ndertaking, we ſhall upon this occaſion, after we have made ſome brief Reflections on the Nature and Office of Conſcience, and finiſhed the Narra<g ref="char:EOLhyphen"/>tive of this Man's Troubles, aſſume the Argument, and according to that meaſure of Faith and Knowledge which God hath given us, ſpeak the Truth in Love, in order to the obtaining (if it may be upon a right Foundation) a better <g ref="char:V">Ʋ</g>nderſtanding, and from thence a more full and firm <g ref="char:V">Ʋ</g>nion among all who love the Lord Jeſus in Sincerity.</p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:105323:4"/>
+            <head>REMARKS UPON THE Nature and Office OF CONSCIENCE.</head>
+            <p>HERE we have a recent and pregnant Inſtance of the powerful and perpetual proſecution of an offended and an awakened Conſcience,<note place="margin">Jer. 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2, 3. Pſ. 119<g ref="char:punc">▪</g>
+               </note> the Horrors whereof were ſo dreadful and unapeaſable, that all Attempts, either to divert the Thoughts to other Subjects, or apply the Mind to the receiving or uſing of mitigating or healing Remedies, were alto<g ref="char:EOLhyphen"/>gether ineffectual.</p>
+            <p>Herein we may alſo perceive, how the Terrors of ſuch a Mind are aggravated beyond the rate of Natural Impreſſions, proportional to the help which Natural Light receives by Education,<note place="margin">Heb. <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 26, 27<g ref="char:punc">▪</g>
+               </note> Converſa<g ref="char:EOLhyphen"/>tion and Acquaintance with Divine Revelation.</p>
+            <p>The Philoſopers, (whom we eſteem Heathens) as being ſtrangers to the Will of God revealed, and Covenant of Grace treated of in the Scriptures) from the dictates of Natural Light, compariſon of Good and Evil, Moral Virtues and Vices, Tranquility and Perturbations of Mind, which enſued the reflection upon good and evil Actions, went very far in deſcribing the proper Office of Conſcience, and thoſe Horrors which were the Conſequents of Heinous Offences.</p>
+            <p>But this Man hath ſo much the more exceeded them all, by how much the Remedies properly applicable to a peninent ſinner (through the Benefits of a Mediatour) were more known and op<g ref="char:EOLhyphen"/>pugned by him than by any of them.</p>
+            <pb n="2" facs="tcp:105323:5" rendition="simple:additions"/>
+            <p>They could, and did, write of an univerſal and immuatable Law engraven on the Mind of Man, as that there was one eter<g ref="char:EOLhyphen"/>nal righteous God to be worſhipped, and with reſpect as well to future as preſent Rewards and Puniſhments, was to be reverenced and feared, Parents to be Honoured, our Neighbours not to be in<g ref="char:EOLhyphen"/>jured in their Perſons or Properties, and that what we would not have done to us, that we ſhould not do to another.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> That this Law was known to the generality of Mankind by its effects, and by na<g ref="char:EOLhyphen"/>tural anticipations and common notions of Good and Evil imprinted in Humane Nature.</p>
+            <p>And altho' by the introducing or intermixture of ſome No<g ref="char:EOLhyphen"/>tions, as the Rule of diſcerning and judging the Morality of A<g ref="char:EOLhyphen"/>ctions, which are not proper and adequate Rules for the directing of Conſcience to make a right Judgment, as our own good Inten<g ref="char:EOLhyphen"/>tions, other Mens Example or Doctrines, and the like, Conſci<g ref="char:EOLhyphen"/>ence may be miſ-guided, and from ſuch Premiſes make wrong Con<g ref="char:EOLhyphen"/>cluſions, as it may alſo happen (through Ignorance) by a wrong application of the proper and adequate Rule, yet that Rule re<g ref="char:EOLhyphen"/>mains a fixt and permanent Faculty in the rational Soul, a connate Habit in the Practical Underſtanding, in ſuch manner as that when the Mind and Memory are awakened and ſtirred up rightly to diſcern and apply that Rule to Actions paſt, it will be made evi<g ref="char:EOLhyphen"/>dent, that it is above the power of any man to give himſelf or any other an abſolute diſpenſation from this adequate Rule and Law of Conſcience, which God hath erected in our Hearts, as his Tri<g ref="char:EOLhyphen"/>bunal; and our neglect of this Rule, or ſuffering our Conſciences to be miſlead by any other, will (when the Vail is taken off) be no excuſe, but rather an aggravation, (at leaſt if it proceeded from a voluntary Ignorance) that we did not according to the power of natural light remaining in us; by a right application of the proper Rule, diſcern, meaſure and judge our own Actions, whether they were morally good or evil.</p>
+            <p>Theſe Philoſophers diſcerned, and by unanſwerable Arguments from Demonſtrations, evinced, that God created all things in or<g ref="char:EOLhyphen"/>der, and that therefore every created Being, together with, and in itſelf,<note place="margin"> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 148.</note> (as the <hi>Pſalmiſt</hi> alſo in the written Word of God declares) had its proper Law and Limit, without which that Order could not be conſidered, and that Humane Nature which was endued with a faculty or power of election, to do or refuſe, was under the inſpection of God to be incouraged and aſſiſted; curbed, cor<g ref="char:EOLhyphen"/>rected or puniſhed, as Men obſerved or acted contrary to that Law which was inſcribed in their Natures.</p>
+            <pb n="3" facs="tcp:105323:5"/>
+            <p>Hence they affirmed, (even as by Divine Ordination) the Re<g ref="char:EOLhyphen"/>ward of Virtue to be in itſelf, and that it was therefore to be fol<g ref="char:EOLhyphen"/>lowed, as that which always carried with it, and left behind it a ſin<g ref="char:EOLhyphen"/>gular profit, alſo that whilſt the Mind was quiet, as not being con<g ref="char:EOLhyphen"/>ſcious of any crime, it would reſtrain and ſtop the Mouth of paſ<g ref="char:EOLhyphen"/>ſions, and prevail to the ſilent bearing of whipping, cutting, tortu<g ref="char:EOLhyphen"/>ring, <hi>&amp;c.</hi>
+            </p>
+            <lg>
+               <l>
+                  <note place="margin">Horat.</note> 
+                  <hi>Juſtum &amp; tenacem propoſiti virum</hi>
+               </l>
+               <l>
+                  <hi>Non Civium ardor prava jubentium</hi>
+               </l>
+               <l>
+                  <hi>Non vultus inſtantis Tyranni</hi>
+               </l>
+               <l>
+                  <hi>Mente qualit ſolidâ: neque Auſter</hi>
+               </l>
+               <l>
+                  <hi>Dux inquietae turbidus</hi> Adriae</l>
+               <l>
+                  <hi>Nec fulminantis magna</hi> Jovis <hi>manus</hi>
+               </l>
+               <l>
+                  <hi>Si fractus illabitur Orbis,</hi>
+               </l>
+               <l>
+                  <hi>Impavidum ferient ruinae.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The juſt man's judgment and reſolved will,</l>
+               <l>No fury popular injoyning ill,</l>
+               <l>No urgent aſpect of a Tyrant's face</l>
+               <l>Doth ſhake, in ſetled Mind on ſolid baſe,</l>
+               <l>Nor the tempeſtuous South-Winds, which command</l>
+               <l>Rough <hi>Adria</hi>'s Seas, nor <hi>Jove</hi>'s great thund'ring hand,</l>
+               <l>If Ruins overwhelm, and crackt World fall,</l>
+               <l>Undaunted like he bears the ſhock of all.</l>
+            </lg>
+            <p>But on the contrary, that a notorious wicked Conſcience was like an Ulcer in the Body, and that none could ever impoſe upon a hot burning Conſcience, or perſwade, that ſuch an one ſhould not cry out, or not tare his hair, or not ſmite his breaſt, ſo much more vio<g ref="char:EOLhyphen"/>lent is the ſence of having done evil, than that of Fire and Sword.</p>
+            <lg>
+               <l>
+                  <hi>Exempto quodcunque, malo committitur ipſi</hi>
+               </l>
+               <l>
+                  <note place="margin">Juven.</note> 
+                  <hi>Diſplicet Authori; prima est hec ultio quod ſe</hi>
+               </l>
+               <l>
+                  <hi>Judice, Nemo nocens abſolvitur improba quamvis</hi>
+               </l>
+               <l>
+                  <hi>Gratia fullacis Praetoris vicerit urnam</hi>
+               </l>
+               <l>—<hi>cur tamen hos tu</hi>
+               </l>
+               <l>
+                  <hi>Evaſiſte putes quos dire conſcia facti</hi>
+               </l>
+               <l>
+                  <hi>Mens habet attonitos &amp; Jurdo verbere caedit</hi>
+               </l>
+               <l>
+                  <hi>Occultum quatiente animo tortore flagellum</hi>
+               </l>
+               <l>
+                  <hi>Nocte dieque ſuum geſtare in pectore teſtem</hi>
+               </l>
+               <l>
+                  <hi>Perpetua anxietas, nec menſe tempore ceſſat.</hi>
+               </l>
+            </lg>
+            <pb n="4" facs="tcp:105323:6"/>
+            <lg>
+               <l>What e're by ill example's done amiſs,</l>
+               <l>Troubles th' Author, the firſt revenge is this:</l>
+               <l>Himſelf being Judge, his Guilt he can't diſcharge,</l>
+               <l>Tho' the brib'd Judge and Votes, ſet him at large.</l>
+               <l>How think'ſt thou then, that thoſe eſcapes confin'd,</l>
+               <l>Accus'd of high Crimes by their conſcious Mind,</l>
+               <l>'Stoniſht, trembling, tortur'd within they ſtand,</l>
+               <l>Severely puniſht by a ſecret Hand:</l>
+               <l>Both night and day he bears within his Breaſt,</l>
+               <l>Perpetual Anguiſh, at his Meals no reſt.</l>
+            </lg>
+            <p>Hence that vulgar ſaying, <hi>Dat penas quicunque expectat:</hi> They can never be happy, who always live in ſuſpicion and fear of Puniſhment: for that fear of puniſhment will haunt a perſon, that ſins heinouſly againſt his Conſcience, ſo long as it cannot be beyond contradicti<g ref="char:EOLhyphen"/>on proved and demonſtrated, that there is no juſt God to avenge his Crime.</p>
+            <p>Thus far have the learned Philoſophers and Poets proceeded up<g ref="char:EOLhyphen"/>on the Principles of Natural Light, and common Experience, in the Deſcription of Conſcience, its Office and Effects, as not con<g ref="char:EOLhyphen"/>ſiſting in, and ariſing from a bare ſpeculative knowledge of things, but in and from a practical knowledge of the rule applied to the particular Fact done, or to be done, wherein the Divine Authority of the Law-giver, the rectitude of that uniform and univerſal Law written in Humane Nature, the quality of the Action, and intention of the Perſon, as known to God, and which might and ought to be known and conſidered by the Actor, with its conſequents, are all comprehended.</p>
+            <p>Others by their converſation with Holy Scripture, improving this Natural Light, have, according to the Laws and Rules thereof, con<g ref="char:EOLhyphen"/>firmed, and in their Diſcourſes enlarged upon this ſubject, concern<g ref="char:EOLhyphen"/>ing the different qualities of Conſcience performing aright, or neg<g ref="char:EOLhyphen"/>lecting its proper Office, in judging according to preſent under<g ref="char:EOLhyphen"/>ſtanding, of things morally good or evil, by that Divine Law or Will of God manifeſt in them, or made known to them, which is and ought to be applied thereunto, and obſerved as the proper and adaequate Rule thereof.</p>
+            <p>And theſe ſay that Conſcience,<note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 2.15,</note> aſſiſted with a ſummary of Prin<g ref="char:EOLhyphen"/>ciples contained therein, is by its Office to ſearch into, and diſcern the lawfulneſs or unlawfulneſs of things, and to direct and order how things lawful in themſelves may be performed in a right man<g ref="char:EOLhyphen"/>ner,
+<pb n="5" facs="tcp:105323:6"/>and to right end; and how things, either evil in themſelves, or of an ill tendency, ought to be forborn and avoided; alſo to re<g ref="char:EOLhyphen"/>veiw and examine actions done by us, both as to their matter and form, whether they be good or evil: and that every man is highly concerned to take good heed to this Rule by which his Conſcience ought to be guided, becauſe its determinations are like unto thoſe of a ſupreme Dictator, ſpeaking Oracles within us, and exerciſing an Authority over us, having in that reſpect ſome kind of co-ordinate power and authority with God; and for that alſo, as Conſcience without Divine Authority, will not juſtifie an action, ſo God will not accept it, without the concurrant authority of Conſcience; without the one, our pretended ſervice is unlawful, without the o<g ref="char:EOLhyphen"/>ther unreaſonable.</p>
+            <p>The perfect, and that which is to every Chriſtian the only adae<g ref="char:EOLhyphen"/>quate Rule of Conſcience, being the Will and Law of God written in the Heart, and revealed in the Scripture; it is hence preſumed, that every Chriſtian is endued both with a natural and an enlight<g ref="char:EOLhyphen"/>ned Mind and Conſcience: and this Will and Law of God, com<g ref="char:EOLhyphen"/>prehended under theſe two general branches, hath an immediate and ſoveraign authority over their Conſcience. It is God alone who knows the inward workings thereof, and he only can puniſh it when it ſinneth; and the obligation which lies upon the Conſci<g ref="char:EOLhyphen"/>ence of every Chriſtian to obſerve Humane Laws and Conſtituti<g ref="char:EOLhyphen"/>ons, as they correſpond with this Divine Law, is becauſe God hath as well by his Law written on the Heart, as his revealed Will in the Scriptures commanded it ſhould be ſo: and hence it is that natural Obligations,<note place="margin">1 Pet. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 14, 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rom. <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 1, 5.</note> and ſuch humane Conſtitutions as correſpond with this Divine Law, are not infringed, but corroborated by Chriſtia<g ref="char:EOLhyphen"/>nity; for that diſcharges no man from, but better informs every man in the knowledge of his Duty towards God and Man; and binds the Conſcience of every Chriſtian to the diſcharge of all re<g ref="char:EOLhyphen"/>lative Duties in his ſtation amongſt Men, as he will anſwer it (not only to thoſe who have Authority on Earth, but alſo) to God him<g ref="char:EOLhyphen"/>ſelf, if againſt the light and obligation of Conſcience he therein tranſgreſſeth the Will of God.</p>
+            <p>In this reſpect <hi>Chriſtians</hi> have a double advantage, and are under a double Obligation above all others. For, 1st, They partake in common with other Men of the univerſal Law of Nature, engra<g ref="char:EOLhyphen"/>ven on the Heart,<note place="margin">1 Ti<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Hoſ. 6<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1 Pet.</note> which no poſitive or revealed Inſtitution diſ<g ref="char:EOLhyphen"/>charges any Man from. <hi>2ly,</hi> They have the Written and Reveal<g ref="char:EOLhyphen"/>ed Will and Law of God in the Holy Scriptures, with whi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, by
+<pb n="6" facs="tcp:105323:7"/>Divine Grace and Providence, they are priviledged above others, and, through Faith, enabled to make a more clear and diſtinct Judgment of the Principles and End as well of Divine as Moral Actions;<note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 2.6, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, 9, 10. <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r. 1.12.</note> as they tend to the Service and Glory of God, the Good of their Neighbours, and their own Peace and Happineſs.</p>
+            <p>Hence alſo it is, that the Peace, Comfort and Joy of a <hi>Chriſtian,</hi> proceeding from the diſcharge of a good Conſcience towards God and Man,<note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 4.7.</note> exceeds all that can be apprehended by a meer natural light, as having ſome ſavour and reliſh in its Soul of that love of of Chriſt,<note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 3 19.</note> which paſſeth knowledge, and of that peace of God which paſſeth underſtanding.</p>
+            <p>For though the fredom from the accuſation of conſcience be not his compleat juſtification before God,<note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>or. 4.4.</note> yet it gives him confidence towards God: and on the contrary, the confuſion, darkneſs, per<g ref="char:EOLhyphen"/>plexity, horrour and deſpair of a perſon acquainted with the Will of God, revealed in the Scriptures, wilfully ſinning againſt Knowledge and the expreſs dictates and judgment of his own Conſcience,<note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 20. <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 13, 14,</note> do far exceed all that can be ſpoken by ſuch who have no other but a natural light; for though that extends itſelf very far, yet the ſeveri<g ref="char:EOLhyphen"/>ty of God againſt ſuch tranſgreſſions is more clearly and diſtinctly repreſented in the Holy Scriptures,<note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h. 1.14, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 17, 18. <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e 9 25. <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 2.2, 3. <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2.25. <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſ. 5.3. <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>et. 2 1. <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 16.26,</note> than in any other Writings; for as the ſin of ſuch a perſon hath in it all manner of aggrava<g ref="char:EOLhyphen"/>tions to render it moſt heinous, ſo the Judgments of the righteous God therein revealed againſt ſuch an impenitent ſinner, are of all others declared to be the moſt dreadful, intolerable, unavoidable, ir<g ref="char:EOLhyphen"/>remediable, endleſs.</p>
+            <p>It is not our intention to ſpeak any thing herein more largely concerning the Nature and Effects of Conſcience, than what is to our preſent purpoſe; many entire and uſeful Diſcourſes of very learned and pious Perſons are extant on this Subject, wherein is ob<g ref="char:EOLhyphen"/>ſerved, (that which we are all obliged to take notice of) that God by his providence hath preſerved in the innermoſt ſeat of our hearts ſome <hi>(ſcintillulae)</hi> little ſparks of that greater light, wherewith the mind of man was inveſted before his fall; that theſe ſparks of light are continued with us, that they may be publiſhers of the good Plea<g ref="char:EOLhyphen"/>ſure and Will of God concerning us, and monitors of our obedi<g ref="char:EOLhyphen"/>ence. 1st, To thoſe common Principles of his Law written in our Hearts, (to do Good, and eſchew Evil) which by reaſon of their higheſt evidence, inſtantly as ſoon as they are offered to our mind and thoughts, command our Faith, and compel our Aſſent. <hi>2ly,</hi> To his revealed Will, contained in the Holy Scriptures, ſo ſoon as
+<pb n="7" facs="tcp:105323:7"/>thro' his grace, either by the Diſcourſe or Writings of others, or by our own ſearch, we have the knowledge thereof.</p>
+            <p>And by how much any man does frequent and exerciſe his natu<g ref="char:EOLhyphen"/>ral Light in the ſtudy and ſearch after the knowledge of this revea<g ref="char:EOLhyphen"/>led Will of God, his Creator and only Lord and Law-giver,<note place="margin">2 Cor. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Joh. 7<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 17. Hoſ. 6.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2 Tim 14. <hi>to <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> end.</hi> Eph. 4.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 18, 19 ch. 5. <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Judg. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 11. <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1 Tim 4, 5. <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2 Pet. <hi>to the <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 2 Cor. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> and thereby ſquare and order his Inclinations, Affections, and Converſa<g ref="char:EOLhyphen"/>tion, by ſo much the more ſhall he be ſecured from, and ſtrengthen<g ref="char:EOLhyphen"/>ed to reſiſt the raging tyranny of his own inbred Luſts, and blind and lawleſs Appetite, and the inchanting Flatteries, Inticements, Diſcourſes, and Examples of men of corrupt minds, and deſtitute of the truth; who for the more effectual razing out of our minds (as much as is poſſible) the little remains of natural Light, and blin<g ref="char:EOLhyphen"/>ding the mind, and hardning the heart againſt the perception and reception of ſupernatural Light, do all they can to ſet the Conſci<g ref="char:EOLhyphen"/>ence free from all Obligations to the Will and Law of God, by in<g ref="char:EOLhyphen"/>troducing and ſetting up in the mind another Rule, <hi>viz.</hi> that of their own Appetite, private Intereſt and Utility: Than which, no<g ref="char:EOLhyphen"/>thing can be more rebellious againſt God, pernitious to humane Society, or deſtructive to him that hath drenched in ſuch a damna<g ref="char:EOLhyphen"/>ble Deluſion.</p>
+            <p>For as that firſt and great Command of God, <hi>ſcilicet,</hi>
+               <note place="margin">Mat. 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 37, 38, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Mat. 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 30.</note> To love him with all the heart, and with all the ſoul, and with all the mind, and with all the ſtrength; and that ſecond, which is like unto it, To love our Neighbour as our ſelves, are the principal Branches of that Univerſal Law of God,<note place="margin">Tim. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>to the <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 1 Joh. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 6, 7.</note> whereby all other Branches thereof are to be interpreted, and on which all the reſt depend: ſo by Obedience thereunto in Faith, out of a pure Heart and good Conſcience, our Union, Fellowſhip, and Communion with God the Father, and his Son Jeſus Chriſt our Lord, and one with another, is maintained, confirmed, and enlarged;<note place="margin">Phil. 3. 2 Tim. 2, 3, 4 Phil. 3.19. Rom. 2 8, 9. Jam. 9. 2 Tim. 9, 10. 2 Pet. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 2, 3.</note> and we thereby brought to have our Converſation in Heaven whilſt we are on Earth, and prepared for everlaſting Habitations with the Saints in light. And on the con<g ref="char:EOLhyphen"/>trary, they which are lovers of Pleaſures more than lovers of God, who make their God their Belly, glory in their ſhame, mind earthly things, ſtop the voice of their Conſcience, act contrary to its Dictates, and ſtrive to thruſt from them, as long and as far as they can, the terrors thereof, are, whilſt they remain upon Earth, on the very borders of Hell, and every moment ready to ſink into Deſtru<g ref="char:EOLhyphen"/>ction and everlaſting Perdition.</p>
+            <p>We have made this brief Reflection on the Nature and Office of Conſcience, as deeming it may be now, and at all times, uſeful to
+<pb n="8" facs="tcp:105323:8"/>our ſelves and all that read it, whilſt remaining in the ſtate of the living; but we make not, ſo much as in our thoughts, any Reflecti<g ref="char:EOLhyphen"/>on upon (or Application of any thing we have herein ſaid to) the ſtate of him that is dead, further than to declare how ſadly he ex<g ref="char:EOLhyphen"/>perimented in the courſe and iſſue of his Life, what has been here ſpoken of; the horror of an offended and awakened Conſcience, and to exerciſe the Judgment of Charity, which only appertains un<g ref="char:EOLhyphen"/>to us concerning his ſorrows for his ſin, fervent deſires to be forgiven of thoſe he has injured, attempts after a publick Recantation of his Evils, endeavours to repent and pray for forgiveneſs of God. The final Judgment we leave to him who is the proper and only Judge of the ſecrets of his heart, with our fervent Prayers to God, that we who have heard, and all that ſhall read the enſuing Narrative, trea<g ref="char:EOLhyphen"/>ſure up in our hearts what is therein inſtructive to us, ſo as to have it always ready in our minds, as a ſeaſonable Warning, never in the like or in any other caſe, wilfully to put to a peradventure the E<g ref="char:EOLhyphen"/>ternal Salvation of our precious and immortal Souls.</p>
+            <div type="part">
+               <head>A brief Account of the Life of Mr. <hi>John Child.</hi>
+               </head>
+               <p>HE was born at <hi>Bedford,</hi> about the year 1638; and, when he was grown up, put Apprentice to an Handicraft Trade, which when he came of age he followed for ſome time: afterwards he be<g ref="char:EOLhyphen"/>took himſelf to another Calling, and removed to <hi>Newport-Pagnel,</hi> where he lived divers years, married twice, and by his laſt Wife (of honeſt Parentage, and good Report) he had ſeveral Children; after his ſecond Marriage, in appearance he increaſed in his Eſtate. About five years ſince, he removed to <hi>London,</hi> and in <hi>October</hi> laſt he ended his days by hanging himſelf in a Houſe he had taken the laſt Spring in <hi>Brick-lane</hi> near <hi>Spittlefields.</hi>
+               </p>
+               <p>He was endued with a competent meaſure of natural Parts, and vivacity of Spirit. In his youth he applied himſelf to the reading and ſtudy of the Scriptures, and attained to a greater knowledge in matters of Religion, than many of his Equals in years and Educa<g ref="char:EOLhyphen"/>tion. In his Opinion and Practice he was for the Baptiſm of Be<g ref="char:EOLhyphen"/>lievers, and conſorted with ſome of us, who are called <hi>Anabaptiſts,</hi> for about twenty years; and for divers years, at ſeaſons, exerciſed himſelf in Preaching.</p>
+               <p>He was obſerved for ſome years before his dreadful Fall, to be ve<g ref="char:EOLhyphen"/>ry remiſs in Religious Exerciſes; and in his ordinary Converſation,
+<pb n="9" facs="tcp:105323:8"/>to frequent other Company than he had done in former times.</p>
+               <p>He was of a very haughty Spirit, and peremptory in aſſerting his Opinions. He ſought to exalt himſelf above what became either his Profeſſion or Attainments. All which, when the Hand of God was heavy upon him for his open ſins, he freely acknowledged with ſevere Charges againſt himſelf for his Pride and Hypocriſie, as you will find in the following Relations.</p>
+            </div>
+            <div type="part">
+               <head>A Narrative of Mr. <hi>John Child</hi>'s Trouble of Spirit, and Deplo<g ref="char:EOLhyphen"/>rable End. Of ſome of the Conferences had with him in the times of his Troubles: and of ſuch Papers as were written by him on this Subject.</head>
+               <p>SOon after the ſaid Mr. <hi>John Child</hi> had publiſhed his foremen<g ref="char:EOLhyphen"/>tioned ſecond Argument, which was about the latter end of the year 1682, he ſignified to ſome of his intimate Acquaintance, that his mind was perplext, for what he had therein done; but yet bare the trouble ſo, as not to make any great ſhew of it in his gene<g ref="char:EOLhyphen"/>ral Behaviour, until about the beginning of <hi>July</hi> 1684. when he could no longer bear or conceal the horrors of his mind, but ſpake of it to ſome that came accidentally to ſee him, and ſent to ſeveral others of his Acquaintance to come to him, to whom when they came, he diſcloſed the miſerable Condition into which he had brought himſelf, and the occaſion thereof, in ſuch manner, as that it became publickly known to many of his Acquaintance and Neighbours, and occaſioned many, beſides thoſe ſent for to viſit and diſcourſe with him, and others to write to him, the ſubſtance whereof, with his Anſwers, you have as follows.</p>
+            </div>
+            <div type="part">
+               <head>Some Account of Mr. <hi>John Child,</hi> by Mr. — <hi>D.</hi>
+               </head>
+               <p>MY Acquaintance with Mr. <hi>Child</hi> was of about fifteen years ſtanding. About two years ſince meeting with a Book which I was informed he had cauſed to be publiſhed but two days before I ſaw it, I went preſently and gave him a viſit, and found him in his Chamber in a very penſive poſture, his Eyes red with Tears, he immediately acknowledged he was the Author of it, and bit<g ref="char:EOLhyphen"/>terly exclaimed againſt himſelf, that he wrote it in malice, and by the inſtigation of the Devil, from very ill principles of Pride, Vain-glory, and Hypocriſie. I quickly found the wound upon his Spirit was very deep, and therefore forbore all Aggravations, and endeavoured to adminiſter ſome ſpiritual Relief to him<g ref="char:punc">▪</g>
+               </p>
+               <pb n="10" facs="tcp:105323:9"/>
+               <p>After this, in his Diſcourſe to others, he ſeemed not to have ſo ſharp a ſence upon his Mind; but for ought I could obſerve, the Sore continued feſtered inwardly, from the firſt time he reflected upon his publiſhing that Book, to the end of his miſerable Life, tho' it brake not out openly, till about <hi>July</hi> laſt. About <hi>Auguſt</hi> laſt I gave him another Viſit, and then found him (tho' naturally of a ſtrong Conſtitution and lively Spirit) ſo exceedingly ſhaken, that the hor<g ref="char:EOLhyphen"/>ror of the ſight made ſuch deep impreſſions, as I think will at ſea<g ref="char:EOLhyphen"/>ſons recur, and ſet it ſelf before me afreſh, as long as I live. His Speech was very regular, which diſcovered his Memory to be good, and that his Diſtemper had not ſeized his Head, but his Heart. He freely diſcourſed the grief of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Mind, expreſſing and ſetting forth his Condition to be moſt deplorable, as having no hopes of ſalvati<g ref="char:EOLhyphen"/>on. I laid before him, with the greateſt tenderneſs, the freeneſs and riches of Gods Grace, chuſing to argue from his own former declared Opinion againſt limiting of it, but could faſten no word of conſolation or hope upon him.</p>
+               <p>With ſome Reluctancy he granted me liberty to pray with him; but ſaid, his Spirit was ſhut up, he could not pray; and while I was praying he often groaned, and after I had ended, told me, God would make him a terrible Example to this preſent Age, and tho' he was full of benignity, yet he was alſo a terrible God, being provoked. Theſe Expreſſions, and the horror that appeared in his Eyes and all parts of his body, drew many tears from mine Eyes, and rendred the Spectacle ſo dreadful that (I cannot ſay as is reported of one that viſited <hi>Francis Spira,</hi> that he would go a thouſand miles to ſee ano<g ref="char:EOLhyphen"/>ther <hi>Spira;</hi> but on the contrary) I deſire I may never ſee the like Spectacle again, whilſt I live in this world.</p>
+               <p>He told me he thought (either in a dream, or when he was awake, he could not tell which) that I ſhould ſay to him, If he died the com<g ref="char:EOLhyphen"/>mon death of all men, the Lord had not ſpoken by me: I anſwered, He better knew the temper of my Spirit and Principles, than to con<g ref="char:EOLhyphen"/>ceive ſuch a thought of me, or that I ſhould take up the words of the Prophet of God divinely inſpired, and apply them to him: but all I could ſay, abated nothing of the horror of his Soul, that I could perceive.</p>
+               <p>This Comment I make upon it, that if any Atheiſt in the world, who had formerly known this man, and had converſed with him in theſe his Agonies, he would have ſeen ſufficient to have convinced him that there is a Power beſides, and ſo much above Nature, as can with a touch ſhake and diſorder, and turn into confuſion the ſtrong<g ref="char:EOLhyphen"/>eſt
+<pb n="11" facs="tcp:105323:9"/>conſtitution of body, by miniſtring and faſtning terrible things upon the Soul.</p>
+               <p>That when God wounds the Spirit of a man, neither he himſelf can bear it, nor can any other aid him. Therefore it is a fearful thing to fall under the Wrath of the living God, who is a conſuming Fire, and can at his pleaſure awaken a ſtupid Conſcience, and re<g ref="char:EOLhyphen"/>vive upon it the memory and horror of ſuch ſins as ſeem to be paſt over and forgotten.</p>
+               <p>My Prayer is, that this man being made as a Pillar of Salt, may warn the preſent and future Ages of the danger of ſinning againſt the preſent Light of their Underſtandings.</p>
+            </div>
+            <div type="part">
+               <head>The Effect of a Conference between Mr. <hi>John Child</hi> and Mr. <hi>B. K.</hi>
+               </head>
+               <p>ABout the middle of <hi>July</hi> 1684. Mr. <hi>B. K.</hi> went to ſee Mr. <hi>Child,</hi> not hearing the leaſt report of any trouble he was then under, and after ſome diſcourſe which paſſed between them, Mr. <hi>K.</hi> occa<g ref="char:EOLhyphen"/>ſionably mentioned that Book called, <hi>A Second Argument,</hi> telling Mr. <hi>Child,</hi> he was reported to be the Author thereof: which he preſently acknowledged, and cried out againſt himſelf in a bitter manner, ſaying, What he had done therein, was out of Malice and Revenge againſt thoſe People; and ſeemed to abhor himſelf for caſting ſuch abominable Reproaches upon them, whom he ſaid, he knew deſerved it not; and preſently deſired Mr. <hi>K.</hi> to go up ſtairs with him, which he did: and then he farther ſignified to him his deplorable condition, and what horror and anguiſh of Soul he lay under, and that there was no mercy for him. And Mr. <hi>K.</hi> being on a ſudden ſurprized with his deep expreſſion of horror, of which he had heard nothing, it did amaze him; yet he endeavoured with the utmoſt of his ability to comfort him, by ſhewing the greatneſs of Gods mercy to true penitent perſons, together with the infinite worth and value of Chriſt's Bloud, telling him withal, that he was glad to find he had the ſence of his great Evil on his heart, or words to that effect, and that he hoped this breaking, was in order to heal<g ref="char:EOLhyphen"/>ing: But Mr. <hi>Child</hi> ſaid, he doubted of that. And all the Words and Arguments Mr. <hi>K.</hi> could uſe to ſatisfie him, were in vain: ſo that at that time, it being late at night, he took his leave of him.</p>
+               <p>Mr. <hi>K.</hi> Soon after, he came to ſeek me at my houſe; but then I could not ſtay long with him.—But a few days after, when he ſent for me, I went, and found him in bed rowling and tumbling up and down in a lamentable manner, enough to pierce ones heart. I
+<pb n="12" facs="tcp:105323:10"/>ſaid to him, <hi>Mr.</hi> Child, <hi>I thought by your deportment, when you was at my houſe, the burden was pretty well off;</hi> or to that effect.</p>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> Child.</speaker>
+                  <p>
+                     <hi>No; no; my burden is greater than I can bear—I would fain be ſatisfied as touching one thing.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> K.</speaker>
+                  <p>
+                     <hi>What is that?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> Jo. Child.</speaker>
+                  <p>
+                     <hi>Whether my ſin may not be that againſt the Holy Ghoſt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> K.</speaker>
+                  <p>
+                     <hi>I hope and believe it is not.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> Child.</speaker>
+                  <p>
+                     <hi>But I wrote the Book out of malice.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> K.</speaker>
+                  <p>
+                     <hi>There is a great deal of difference between doing a thing out of malice and prejudice againſt the Lord's People, and acting out of ma<g ref="char:EOLhyphen"/>lice againſt Chriſt himſelf, or doing deſpight to the Spirit of Grace. I do not doubt, but that you always had holy and reverent dread and reſpect to the Name of God, tho' you might take up a great offence againſt ſome of his People.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> Child.</speaker>
+                  <p>
+                     <hi>I have often had<g ref="char:punc">▪</g> that Scripture brought to me,</hi> Pſal. 50.19, 20. Thou giveſt thy mouth to evil, and with thy tongue thou forgeſt deceit. Thou ſitteſt and ſpeakeſt againſt thy brother, and ſlandereſt thy mothers ſon. <hi>And of that which follows:</hi> Conſider this, ye that forget God, leſt I tear you in pieces.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> K.</speaker>
+                  <p>
+                     <hi>But pray obſerve, tho' you ſhould be guilty of that great evil there mentioned, yet there is ground of hope in that you are exhorted to con<g ref="char:EOLhyphen"/>ſider</hi>—I uſed many Arguments to perſwade him to rely on the mercy of God thro' Chriſt, mentioning that paſſage of the Prophet <hi>David, Forgive me my ſin, for it is great;</hi> and how wonderfully he had manifeſted and magnified the attribute of his mercy, in pardon<g ref="char:EOLhyphen"/>ing great and bloudy ſinners.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> Child.</speaker>
+                  <p>(Breaking forth into bitter tears, cried out) <hi>I know that the Majeſty of Heaven is a good and gracious Being, yet when provo<g ref="char:EOLhyphen"/>ked</hi> (ſtretching forth his hands in a frightful manner) <hi>he is a terrible God.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> K.</speaker>
+                  <p>
+                     <hi>I think it is neceſſary that you retract what you have written in that Book, for that I think nothing ſhort of it will be a demonſtration of the ſincerity of your heart; and proof of the truth of your repentance.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> Child.</speaker>
+                  <p>
+                     <hi>I have begun to write, but I cannot write, neither have I any one of the Books.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> K.</speaker>
+                  <p>
+                     <hi>I will ſee and get you one of them, and ſend it to you.</hi>
+                  </p>
+                  <p>At another time I adviſed him to conſult ſome Phyſician about his health.—To which he made no anſwer.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> K.</speaker>
+                  <p>
+                     <hi>Shall I acquaint any perſons with your condition?</hi> (mention<g ref="char:EOLhyphen"/>ing ſome worthy Miniſters to him, whom he knew Mr. <hi>Child</hi> for<g ref="char:EOLhyphen"/>merly had a great eſteem for.)</p>
+               </sp>
+               <pb n="13" facs="tcp:105323:10"/>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> Child.</speaker>
+                  <p>
+                     <hi>I ſhould be glad to ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e, Mr.</hi> P.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>K.</hi>
+                  </speaker>
+                  <p>aſſured him he would do his endeavour therein, and ac<g ref="char:EOLhyphen"/>cordingly did, and made known his fearful ſtate to divers others; by which means Mr. <hi>J.</hi> ſent him a comfortable Letter, and many godly perſons went to viſit him.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>K.</hi>
+                  </speaker>
+                  <p>at another Viſit not long before his death, perceiving the anguiſh of his Spirit was rather greater than ever, asked him, <hi>Have you not yet any more light?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> Child.</speaker>
+                  <p>
+                     <hi>No, nor never ſhall.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>Mr.</hi> K.</speaker>
+                  <p>
+                     <hi>Shall I and two or three more, ſuch as you ſhall beſt approve of, come and ſpend ſome time in Prayer to the Lord for you?</hi> — To which he gave no anſwer, tho' much preſt to it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child</hi>
+                  </speaker>
+                  <p>at another time ſaid, <hi>I have touched the Apple of God's Eye—I am damned.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child</hi>'s</speaker>
+                  <p>Wife ſaid, That ſhe found ſometimes in the night-ſeaſon, that the very ends of his Hair did ſtand in drops, thro' the anguiſh of his Spirit, continually crying out againſt himſelf for wri<g ref="char:EOLhyphen"/>ting that Book.—</p>
+               </sp>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>A Letter in <hi>July</hi> 1684. from Mr. <hi>J.</hi> to Mr. <hi>Child.</hi>
+                     </head>
+                     <p>
+                        <hi>I</hi> Am informed that your Soul is greatly afflicted in the ſence of your E<g ref="char:EOLhyphen"/>vil: I deſign not to add to your grief, but as I ought to pity the af<g ref="char:EOLhyphen"/>flicted. Our Lord will not break the bruiſed Reed, nor quench the ſmoak<g ref="char:EOLhyphen"/>ing Flax: And I have learned from him my part, the duty of a true Neighbour, to do what I can for cleanſing and healing the Wounds you have made in your own Conſcience.</p>
+                     <p>Thereforefore, I pray you conſider, <hi>1.</hi> God's own Children are ſometimes guilty of backſliding. <hi>2.</hi> That 'tis the Will of God, they ſhould return to him from whom they have revolted. <hi>3.</hi> That he is ready to receive and heal them upon their return; and I pray God you may be helpt to ſay the next words in ſincerity of heart: <hi>Behold I come unto thee, for thou art the Lord my God.</hi>
+                     </p>
+                     <p>Conſider, upon repentance and returning,<note place="margin">Iſai. 55</note> God will abundantly pardon ſuch as have abundantly ſinned. The Lord help you to plead as <hi>David</hi> did, <hi>For thy name ſake, pardon my iniquity, for it is great.</hi>
+                        <note place="margin">Pſal. 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </note>
+                     </p>
+                     <p>Conſider, <hi>Chriſt is able to ſave to the utmoſt,</hi>
+                        <note place="margin">Heb. 7.</note> 
+                        <hi>them that come un<g ref="char:EOLhyphen"/>to God by him.</hi> Let theſe few Lines be acceptable to you, from him who prayeth for you, and remains</p>
+                     <closer>
+                        <signed>Your Cordial Friend, <hi>J. J.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="14" facs="tcp:105323:11"/>
+               <p>Upon the receipt and reading this Letter, Mr. <hi>Child</hi> was heard to ſay, <hi>What! is</hi> J. J. <hi>whom I have ſo greatly envied, ſo kind to me?</hi> and preſently ſet Pen to Paper, and writ, and in ſome few days ſent a doleful Letter to the ſaid <hi>J. J.</hi> A Copy whereof follows.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>
+                           <hi>Mr.</hi> J.</salute>
+                        <date>
+                           <hi>July 30. 1684.</hi>
+                        </date>
+                     </opener>
+                     <p>YOurs I received this day, but without date, the latter part of which hath attained its wiſh and deſire; for it is very acceptable unto me, and can be no otherwiſe, where the leaſt degrees of gratitude do remain. And for the Expreſſions of your Chriſtian love, and deſires of my happineſs in all reſpects, lays a double obligation upon me to eſteem your friendſhip. What you have been informed of, my Souls affliction, is true, and I think no ſmall cauſe for it, diſhonour to God, grieving his Spirit, ſinning againſt Chriſt, blaſpheming his Tabernacle, perſecuting the Saints, grieving and wounding thouſands dear to <hi>Jehovah;</hi> ſtumbling the Weak, ſhortning Life, weakning Senſes, deſtroying rational Powers, giving occaſion to the wicked to blaſpheme, and the uncircumciſed to rejoyce; the deſtroying inward Peace and outward Felicity, the turning Light into Darkneſs, and the Noon<g ref="char:EOLhyphen"/>day into horrible Night; the provoking God to make the Heavens Braſs, the Earth Iron, and the Rain nothing but Powder and Duſt; the ſhutting a man out from the comforts of the Promiſes, and bringing of him under the moſt diſmal Threats that ever an Almighty Being gave forth; mar<g ref="char:EOLhyphen"/>ring all Comforts, ſpoiling all Joys, making the Life a Burthen, and Death a Terrour; the putting beſides Duty, and all acceptable improvements of Talents; the giving the Devil advantage, and bringing the Salvation into imminent danger; the being poſſeſt with Doubts, Fears, and Trem<g ref="char:EOLhyphen"/>blings night and day; the ſad ſavour of Gall and Wormwood, and harſh reliſh of Gravel-ſtones; the ſad apprehenſions of Curſes, Blaſting, and Mildew, of Caterpillars, Locuſts, and Cancer-worms; the diſmal ſound of the mad Prophets words, <hi>I ſhall ſee him, but not now, I ſhall be<g ref="char:EOLhyphen"/>hold him, but not nigh,</hi> is a ſufficient ground of Soul-affliction. Your tender aim and charitable deſign in the balmy Application you ſent, I have reaſon well and kindly to reſent, and wiſh they had been high enough to hit the mark, and have anſwered the deſign. Had I been a Backſlider of an ordinary ſize, they might have had an effectual Operation: but to that it's vaſtly different; I have a Voice behind me, or dire Texts, that make a dreadful ſound. To love and to make lyes, is a qualification for the Lake. He ſhall have Judgment without mercy, that ſhewed none. To offend one little one, is a ſin againſt Chriſt, and a condition worſe than to have a Milſtone about the neck with a caſt into the Sea. To ſlander the Mothers Son, is near deſtruction by a tearing to pieces; but what is prepared and
+<pb n="15" facs="tcp:105323:11"/>juſtly deſerved, for condemning many Generations of the just; branding and wounding and grieving Thouſands and Ten Thouſands of good and just Men, by charging Conſequences upon their Principles, beyond the ſence of their minds, and rendring them not only miſlead and deceived, but no Church, no Chriſtians, vile Monſters, Infidels, Robbers of God, my, Murderers of the worſt ſort and higheſt order, great Enemies to their Na<g ref="char:EOLhyphen"/>tive Country; but the aking of my Heart, ſtops the progreſs of my Hand, upon the repetition of theſe aſtoniſhing things. I thank you for your kind<g ref="char:EOLhyphen"/>neſs; I beg pardon for my own ſhortneſs, and conclude theſe Lines very ſad and hopeleſs.</p>
+                     <closer>
+                        <signed>John Child.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>After the receipt of this from Mr. <hi>J. Child, J. J.</hi> wrote again to him to this effect:</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Mr. <hi>John Child,</hi>
+                        </salute>
+                        <date>
+                           <hi>Aug. 1. 1684.</hi>
+                        </date>
+                     </opener>
+                     <p>IN continuance of my tender Compaſſions, becauſe of your Soul's Affli<g ref="char:EOLhyphen"/>ctions, and being encouraged by your kind acceptance of thoſe few Lines I ſent you before, I now write again, taking notice of your many doleful Expreſſions, wherein you highly, and, I hope, humbly aggravate your Backſliding from God, wronging his Servants, and toward the cloſe, that my application of God's healing backſliding Children, might have hit the Mark, had you been a Backſlider of an ordinary ſize; Now there<g ref="char:EOLhyphen"/>fore, that I may be a little helpful to your diſtreſſed Soul, (if the Lord pleaſe to ſupport you from ſinking into the ſad Gulph of Deſpair,) <hi>1ſt.</hi> Con<g ref="char:EOLhyphen"/>ſider the greatneſs of <hi>David</hi>'s ſin of Adultery, and contriving the Death of <hi>Uriah,</hi> yet being truly penitent, he was graciouſly pardoned. <hi>2ly,</hi> The greatneſs of <hi>Manaſſeh</hi>'s Sins, his Idolatry, cauſing his Children to paſs thro' the Fire, uſing Inchantments and Witchcrafts, dealing with Familiar Spi<g ref="char:EOLhyphen"/>rits, filling <hi>Jeruſalem</hi> with Innocent Blood; yet humbling himſelf in his miſery, he obtained mercy of God. <hi>3ly,</hi> That God hath offered mercy to ſcarlet and crimſon ſinners. <hi>4ly,</hi> Not only to ordinary but extraordinary backſliders. <hi>5ly,</hi> To <hi>Peter,</hi> after he denied his Maſter with Curſing and Swearing. <hi>6ly,</hi> Chriſt came to ſave the chief of ſinners. <hi>7ly,</hi> He will in no wiſe cast off any that come to him, and is able to ſave them to the utmoſt. Submit therefore to Mercy upon a probability; upon a perhaps God may forgive; Go to Christ as one condemned, and deſerving to be executed, and plead, that you have heard the King of <hi>Iſrael</hi> is a merciful King. Thus, with my Prayers for you, I am</p>
+                     <closer>
+                        <signed>Your Soul's real Friend, <hi>J. J.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="16" facs="tcp:105323:12"/>
+               <p>After Mr. <hi>John Child</hi> received this Letter, Mr. <hi>J. F.</hi> and other Friends viſiting him, he read it to them, trembling and paraphra<g ref="char:EOLhyphen"/>ſing thereon, ſadly bemoaning himſelf, ſaying, that the mercy that <hi>David, Manaſſeh,</hi> and <hi>Peter</hi> had, did not belong to him, and wept biterly.</p>
+               <p>Mr. <hi>J. F.</hi> adviſed him to write an Anſwer of that Letter, to Mr. <hi>J. J.</hi> which in few days he did, and ſent it by Mr. <hi>F.</hi> but be<g ref="char:EOLhyphen"/>fore it was delivered, Mr. <hi>Child</hi> came himſelf to Mr. <hi>J.</hi> who gave him a friendly welcome, and asked how it was with him? he anſwered, I am very bad; it is very bad with me. Mr. <hi>J.</hi> replied, But God is very good, yea, abundantly good to them who have been abundantly bad to him. Mr. <hi>Child</hi> laid his hand upon his breaſt, and ſaid, I ſhall never loſe thoſe Notions of God's goodneſs, but what is that to me? I cannot make any application of it to myſelf, and as he was walking to and fro, greatly diſturbed in his mind, he made a ſudden ſtand, and ſaid, I think I am damned. To which Mr. <hi>J.</hi> returned to this effect: God's thoughts are not as Man's thoughts;<note place="margin">
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 8 41,</note> ſometimes Men think of themſelves better than God thinks of them; ſometimes Men think worſe of them<g ref="char:EOLhyphen"/>ſelves, and of their ſtate, than God thinketh: I hope God's thoughts concerning you, differ from your thoughts in this latter ſence; think on that Text, <hi>Iſa.</hi> 55.8. <hi>My thoughts are not your thoughts, neither are your ways my ways, ſaith the Lord.</hi> Mr. <hi>Child</hi> ſaid, I have Preached from that Text formerly, and preſently repeated theſe words: <hi>Eſau</hi> found no place for Repentance, though he ſought it carefully with Tears.<note place="margin">
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0.12.</note> Mr. <hi>J.</hi> replied, <hi>Eſau</hi> could not prevail with his Father. Then Mr. <hi>Child</hi> ſat down very ſad, and ſaid, I cannot repent. Mr. <hi>J.</hi> replied, Chriſt is exalted as a Prince and a Saviour, to give repentance and forgiveneſs of ſins; Therefore cry to him to give you this repentance. Mr. <hi>Child</hi> (after a little time of ſilence) repeated that word, He ſhall have judgment without mercy, that ſhewed no mercy.</p>
+               <p>It is obſervable, that Mr. <hi>Child</hi>'s deſign in coming to Mr. <hi>J.</hi> was to engage him not to ſhew the Letter which he had ſent him by Mr. <hi>F.</hi> but to conceal it; and while they were reaſoning together, Mr. <hi>F.</hi> came in, and delivered the Letter to Mr. <hi>J.</hi> but after he had read it, he told Mr. <hi>Child,</hi> it was not convenient to conceal the matter of it, becauſe it would engage godly perſons to pray for him; but Mr. <hi>Child,</hi> with a dreadful look, fixed his Eyes on Mr. <hi>J.</hi> ſnacht the Letter out of his hand, and then was troubled he had ſo done; whereupon Mr. <hi>J.</hi> conſented to his carrying it
+<pb n="17" facs="tcp:105323:12"/>away, that he might not increaſe the trouble of his mind; which Mr. <hi>Child</hi> took kindly: and ſo they parted.</p>
+               <p>After the death of Mr. <hi>Child,</hi> that Letter was found among his Papers; a Copy whereof take as follows.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Mr. <hi>J. J.</hi>
+                        </salute>
+                     </opener>
+                     <p>YOur kind and Chriſtian Letter I received, and I thank you for the great Pains you took to comfort me, and keep me from immediate deſperation; but ſtill my Burden remains great, and mine Iniquities are great date, and many Old Sins, as well as ſome of late, come to mind; — Wrath is coming to the utmost: I am forſaken of God; Good Men are mine Enemies; I hate my ſelf; I am afraid and aſhamed abroad; I am confuſed and diſtracted at home; The Scriptures look dreadfully upon me; I have not only taken up a Reproach againſt my Neighbour, which ex<g ref="char:EOLhyphen"/>cludes a man God's holy hill, <hi>Pſal. 15.</hi> but have raiſed Reproach, invent<g ref="char:EOLhyphen"/>ed Reproach, and by it wronged multitudes; ſlanderouſly reported it to the Nation: It's just by St. <hi>Paul</hi>'s ſentence, Afraid I am to live, afraid I am to die; Judgment I fear will be terrible in this World, and more in the World to come: Some mens ſins go before-hand to judgment, and thoſe that do not, cannot be hid when we come before the great Tribunal; I cannot give an account of my Actions to Men, how much leſs to God, my Heart condemns me, and he is greater, and knows more; I think I have not only out done <hi>Cain, Balaam,</hi> and <hi>Judas,</hi> but many of the Devils themſelves; What I acted againſt Men was at an ill time; there is all bad Circumſtan<g ref="char:EOLhyphen"/>ces attended my Actions; I could not have thought I had done ſuch things, till I lately lookt them over; I dread Damnation, but can ſee no way to eſcape; I know God's mercy is great above the Heavens, but it is barred up and cannot paſs to me, I cannot perform the condition of obtaining; I have diſmal Temptations, they have almoſt broken me to pieces; I am not reconciled to thoſe I have offended, how then ſhall my gift be accepted; If I am juſtly ſentenc'd on Earth, it is bound in Heaven; how then ſhall it be reverſed? my Friends will not be reconciled and at peace with me: Much more I could write, but want time. I remain him that calls him<g ref="char:EOLhyphen"/>ſelf, a Devil incarnate.</p>
+                  </body>
+               </floatingText>
+               <p>To which Letter of Mr. <hi>Child</hi>'s— Mr. <hi>J.</hi> upon the memory of what he had read, might before Mr. <hi>Child</hi> took it out of his hand, return an Anſwer to this effect, That he ſimpathiz'd with his Sor<g ref="char:EOLhyphen"/>rows, and was very much concerned at the dreadful charge there<g ref="char:EOLhyphen"/>in laid upon himſelf, which by all the Arguments in Scriptures he could think upon, he endeavoured to remove the weight that op<g ref="char:EOLhyphen"/>preſt
+<pb n="18" facs="tcp:105323:13"/>his mind from their influence, and particularly, that his Bre<g ref="char:EOLhyphen"/>thren whom he had offended, were ready with open Arms and Hearts to receive him, and forgive any wrongs he had done unto them. Much of the Matter of the Letter we have omitted, becauſe of its ſimilitude with what he had formerly wrote.</p>
+            </div>
+            <div type="part">
+               <head>The Effect of ſeveral Conferences between Mr. <hi>Child,</hi> and Mr. <hi>H. C.</hi>
+               </head>
+               <sp>
+                  <speaker>MR. <hi>C.</hi>
+                  </speaker>
+                  <p>I am come, Mr. <hi>Child,</hi> with a deſign to ſerve your Soul, if it lye in my power.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>God hath for ſeveral Years paſt, been rending and tearing me in my Eſtate, curſing and blaſting all I have put my hand to, and proſpered me in nothing, (and, in much horror, clapping his hands to his Heart, ſaid,) Here it is, and I ſhall die.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>I am informed your Trouble ariſes from the publiſhing a Book, entituled, <hi>The Second Argument for a more firm Union amongst Proteſtants.</hi> What part of that Book troubles you moſt?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>(Taking up the Book in his hand, began to read where he ſaith, the greateſt Number of Diſſenters do hold Prin<g ref="char:EOLhyphen"/>ciples dangerouſly heretical, and moſt abominably abuſing the moſt holy and bleſſed God, <hi>&amp;c.</hi> but before he could end that Para<g ref="char:EOLhyphen"/>graph, being under extreme agony of mind, and weeping bitterly, put the Book from him, and ſpake to this effect, <hi>viz.</hi>) I have repre<g ref="char:EOLhyphen"/>ſented thoſe of <hi>Calvin</hi>'s Principles beyond whatever they conceived, ſtrained their Opinions beyond their Intentions, and drawn ſuch Conſequences as never were in their minds, and, ſtriking his breaſt with much anguiſh, ſaid, Theſe Words lye cloſe; I ſhall never get over this; I writ in prejudice againſt them, calling them a villanous body of People, which was unjuſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>ſaid, Are you not heartily ſorrowful for writing this?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>Oh that I could repent; I cannot repent.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>If it were now to do, would you do it again? the beſt part of repentance is to turn from evil.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I know there is in Repentance three things; <hi>Confeſſion, Contrition,</hi> and <hi>Reſtitution.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>We are not capable of making God reſtitution, he par<g ref="char:EOLhyphen"/>dons and juſtifies for his own Name's ſake, and Chriſt's ſake; but reſtitution is to be made to our Neighbour; and if you are ſen<g ref="char:EOLhyphen"/>ſible God hath been diſhonoured, and his People wronged in that Book, your next work is to make reſtitution in like manner, by a <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </sp>
+               <pb n="19" facs="tcp:105323:13"/>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>This is the opinion of ſome others alſo, and I think it ought to be done; (and walking about the Room, with great hor<g ref="char:EOLhyphen"/>ror of ſoul, ſaid,) I have been guilty of many Evils: I have for ſe<g ref="char:EOLhyphen"/>veral years lived a very ungodly Life, neglected Family-duty, Clo<g ref="char:EOLhyphen"/>ſet-duty, Publick-duty in the Church of God; I have been great<g ref="char:EOLhyphen"/>ly guilty of Pride, endeavouring to run every man down in diſpute; I have made this World my God, and been guilty of that Idolatry, <hi>Eph.</hi> 5. I have not been a little guilty of Hypocriſie; I have en<g ref="char:EOLhyphen"/>deavoured by all ways and means to ſhake the Croſs of Chriſt from off my ſhoulders; and I fear I have been guilty of Bla<g ref="char:EOLhyphen"/>ſphemy: I have wronged many a poor Soul by writing as I have done; I have wiſhed myſelf in their condition, and would have given many Thouſands of Pounds, (had I had it) to have been in as good a condition as ſome of them I writ againſt: I have di<g ref="char:EOLhyphen"/>ſcourſed you, and Mr. <hi>B.</hi> and <hi>J.</hi> and have thought to run down your Opinion by a Spirit of Inſolency and Pride, but the Judgments of God have followed me; he hath rent and torn me for theſe things, and now I ſhall die, I am ſtruck with death.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>Suppoſe you ſhould die to Night, (as we know not how it may be with any of us) can you contentedly ſink into the Abyſs of Miſery, without ſtriving for Salvation? would you not run to Chriſt? ſtrive to take hold of him and his purchaſed bleſſedneſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child,</hi>
+                  </speaker>
+                  <p>(with a very grim countenance ſaid,) I ſhall go to Hell; I am broken in judgment; when I think to Pray, either I have a fluſhing in my face, as if I were in a flame, or I am dumb and cannot ſpeak, or elſe I fall aſleep upon my knees; all the ſigns of one whom God hath left forſaken and hardened.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>If God ſhould impute to you the righteouſneſs of Chriſt, would it be of any advantage to you?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>If God would be ſo gracious, as to impute Chriſt's righteouſneſs to me, it would make me a happy man.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>Did you do what you did, in writing that Book, againſt the light of your Conſcience, or motions of the Spirit?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I think I did not formally ſin againſt the light of my Conſcience and Spirit of God; yet what I did, was mixt with malice, with this cheat in my heart, It may be it may do them good. The Night before the Book was publiſhed, I had ſome reluctancy and gripes of Conſcience.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>Why did you not call them in before they were pub<g ref="char:EOLhyphen"/>liſhed?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I fell ill upon it, and found myſelf more and more
+<pb n="20" facs="tcp:105323:14"/>entangled and enſnared; one door was opened, and another door was opened to my ruin, as if I were a man deſigned for damna<g ref="char:EOLhyphen"/>tion.</p>
+                  <p>After ſome reaſonings about Baptiſm, Conformity, and the Troubles which Nonconformiſts were under, (he ſaid,) I have a<g ref="char:EOLhyphen"/>bundance of carnal fleſhly Reaſonings, I am under the power of unbelief and diſtruſt; for theſe are my Arguings in me, Should I ſtick to the Church of <hi>England,</hi> then thoſe I have written againſt, would account me the greateſt Hypocrite in the world, to make ſo much ado about deſpair, for what I have done againſt them; Should I leave the Church of <hi>England,</hi> and ſtick to the Diſſenters, and with full purpoſe of heart cleave to the Lord, then, if ever I am taken in a Meeting, they will have no mercy on me, and tri<g ref="char:EOLhyphen"/>umph, This is the Man who made his Recantation, and then ruin me to all intents and purpoſes, and I cannot bear the thoughts of a Croſs, nor a Priſon.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>Two things are eſſentially neceſſary to the peace of your Soul, with all ſpeed to publiſh your Recantation, and ſet your ſelf to know the truth of God, and cleave to it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>What an aſtoniſhing conſideration is it for a man to die in this condition I am in; To be under horror for writing ſuch things, and yet have no power to renounce it; for ſhould I do ſo, I ſhould be quickly ruined in my Eſtate; I had a fancy the other morning, that the Sheriffs and their Officers were coming to ſeize all that I had; and about a week ſince I had that word, <hi>Can thine heart endure, or thy hands be ſtrong, in the day I will contend with thee?</hi> I think I am now able to ſatisfie any <hi>Atheist</hi> in the world, that there is a God; for I find the Arrows of the Almighty ſticking in me, and he runneth upon me as a Lyon. I thought, that I could go and fall at the feet of thoſe I have wronged, and beg their forgiveneſs, and wiſhed often, Oh that I could repent! O that God would waſh me in the fountain of his Son's blood! O that I had faith, that I could believe!</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>H. C.</hi>
+                  </speaker>
+                  <p>(Taking leave of Mr. <hi>Child,</hi>) Can you not deſire my Prayers?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>This is a hard Queſtion; (and, after a little pauſe, taking Mr. <hi>C.</hi> by the hand, ſaid,) for the ſake of the Lord Jeſus Chriſt, pray for me at night, if there be any mercy yet left, that I may yet lye in the way of mercy.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>(Finding the Troubles of Mr. <hi>Child</hi> ſtill continuing and increaſing,<note place="margin">
+                        <hi>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>g.</hi> 21.84.</note>) What do you think would give you relief?</p>
+               </sp>
+               <pb n="21" facs="tcp:105323:14"/>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>If I were in Heaven, it could not relieve me; for there I ſhould behold the face of a holy God, holy Saints and An<g ref="char:EOLhyphen"/>gels, (as now I behold the face of good men upon Earth) with ſhame and confuſion of face.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>If God would take you into his favour, that would re<g ref="char:EOLhyphen"/>lieve you.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>His wrath is come upon me to the uttermoſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>To deſpair, reflects upon the Soveraignty of God's grace.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>For thoſe whoſe day of grace is not gone, God will multiply to pardon, but it is too late for me, my day is gone.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>Did not you write a Book before the ſecond Argument?<note place="margin">
+                        <hi>Aug.</hi> 3<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 1684.</note>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I did.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>Did not a Gentleman write ſome Animadverſions upon it, by way of Anſwer in a Manuſcript.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>He did.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>Was it a ſufficient Anſwer.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>It was rationally anſwered.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>Yet you printed this Book afterward.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I did.</p>
+                  <p>After ſome time of calm reaſoning, Mr. <hi>Child</hi> began to be again in a great horror, and ſpake to the effect following.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I am one of the greateſt Hypocrites that ever lived upon the Earth, and ſhall be ſo accounted; God hath done his will, and will do his will upon me. <hi>The wicked ſhall fall into miſchief, and the backſlider in heart ſhall be filled with his own ways; He that ſaith he ſhall have peace, and walketh in the imagination of his evil heart, the Lord will not ſpare him, but then the anger of the Lord, and his jea<g ref="char:EOLhyphen"/>louſie ſhall ſmoke against that man.</hi> Oh he thunders upon me! ſhould God let out the ſence of my ſins on me, (as he will) I ſhould houl like a Dog, roar like a Lyon, bellow like an Ox, mine inward parts would melt within me, as the braſs melts in the flaming fur<g ref="char:EOLhyphen"/>nace; I ſhall lye lower than <hi>Judas,</hi> lower than <hi>Judas,</hi> I have ſinned worſe than <hi>Judas.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>You make application of the Curſes in the Book of God, but not of the Promiſes; Conſider <hi>Iſai.</hi> 55. <hi>Pſal.</hi> 34.5.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>Promiſes are Bread for Children; They lookt on him, <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> were lightned; I look unto him, and am darkned; he knows, <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> I have committed ſuch wickedneſs as never hath been done.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>C.</hi>
+                  </speaker>
+                  <p>Do you not ſometimes find an inclination to Pray?</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Child.</hi>
+                  </speaker>
+                  <p>Seldom or never; onely about an hour before you <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> went about it<g ref="char:punc">▪</g> but the end was diſmal<g ref="char:punc">▪</g> That day you
+<pb n="22" facs="tcp:105323:15"/>were here with Mr. <hi>W.</hi> I attempted it three times, but could do no<g ref="char:EOLhyphen"/>thing.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>Shall I pray for you?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>No, no; 'tis too late: neither Men nor Angels can relieve me.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>
+                     <hi>Job</hi> ſaith, <hi>Tho' he ſlay me, yet will I trust in him.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>About two months ſince, I thought I had comfort and relief from thence, but now I cannot tru<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> in him; God ſaith he will deal in a ſingular manner with me here on Earth, and in Hell alſo.</p>
+                  <p>Afterwards quoted againſt himſelf thoſe Expreſſions, <hi>Heb.</hi> 10.26. <hi>For if we ſin wilfully, after that we have received and acknowledged that truth, there remains no more ſacrifice for ſin.</hi> 2 Pet. 2.20, 21, 22. <hi>For if after they have eſcaped from the filthineſs of the world, through the acknowledging of the Lord and the Saviour Jeſus Chriſt, are yet tangled again therein and overcome, the latter end is worſe than the beginning; For it had been better for them, not to have acknowledged the way of righteouſneſs, than after they have acknowledged it, to turn from the holy commandment given unto them: But it is come unto them according to the true proverb; The dog is returned to his own vomit, and the ſow that was waſhed, to the wallowing in the mire.</hi> And Mr. <hi>Child</hi> ſaid, When I am faint and low, I now take ſomewhat to refreſh me, but in Hell there is no refreſhment, not a drop of water to cool my tongue. I wonder that my Head (tho it do not ake) doth not burſt aſunder; it is filled with diſmal Cogitations.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>
+                     <note place="margin">
+                        <hi>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ept.</hi> 13. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>684.</note>with one Mr. <hi>R.</hi> gave Mr. <hi>Child</hi> another viſit, and Mr. <hi>R.</hi> put him upon ſaying the Lord's Prayer.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I have thought of that, but I dare not ſay it, for theſe Reaſons: <hi>1ſt,</hi> I cannot call God, <hi>Father. 2dly,</hi> I cannot ſay, <hi>Thy Will be done. 3ly,</hi> I cannot ſay, <hi>Forgive me my Treſpaſſes as I forgive them that treſpaſs againſt me.—</hi> All that I have is curſt to me; I can<g ref="char:EOLhyphen"/>not give God thanks for what I eat and drink.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>Have you a deſire to be ſaved?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>Yes, upon my own terms, and not according to God's.</p>
+                  <p>It was then askt Mr. <hi>Child,</hi> what thoſe terms were? but he would make no anſwer; ſo we parted.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>A Conference of ſome Friends with Mr.<note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ctob.</hi> 12. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>684.</note> 
+                  <hi>John Child.</hi>
+               </head>
+               <sp>
+                  <speaker>Compa<g ref="char:EOLhyphen"/>ny.</speaker>
+                  <p>THE laſt time I ſaw you, you ſaid, you had a peradven<g ref="char:EOLhyphen"/>ture to depend upon, and that was all; I hope you have</p>
+               </sp>
+               <pb n="23" facs="tcp:105323:15"/>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>No, all is gone.</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>Is God gone, and Chriſt gone?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>All is gone; I am undone.</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>I hope the Lord will return again.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>You cannot hope ſo concerning me.</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>Where Chriſt begins a good work he will perfect it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>If I had any; but all is gone (if ever I had any).</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>You would do well to uſe the means of Grace, and fre<g ref="char:EOLhyphen"/>quent the Society of God's People, and deſire their Prayers, tho' you ſay you have no mind to pray nor deſire their Prayers, yet if you go among them, you know not what God may do for you. Conſider 2 <hi>King.</hi> 7.4.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I have been ſo great a ſinner againſt God and the People of God, that God will have no mercy for me.</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>If God bring you out of this condition, it may be more to his honour and glory, and to your ſtrengthning and eſtabliſhing of his People, than all you have done in times paſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>God will glorifie himſelf by me, and make me an Ex<g ref="char:EOLhyphen"/>ample for the ſtrengthning and eſtabliſhing of his People; but it ſhall end in my deſtruction.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>The ſubſtance of ſome Conferences held between Mr. <hi>John Child</hi> and Mr. <hi>E. P.</hi> who was frequently with him in the year before he died.</head>
+               <p>THE firſt time he ſaw Mr. <hi>Child,</hi> after he had declared his Trou<g ref="char:EOLhyphen"/>ble, he ſeemed to be in a very great Agony, often ſpreading out his Arms, lamentably expreſſing himſelf ſeveral times, and ſaid,</p>
+               <p>Oh that I might be a good man; but there is no hopes for me! It is now too late: I am the greateſt Hypocrite in nature.</p>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>
+                  </speaker>
+                  <p>Pray you, Mr. <hi>Child,</hi> inſtance in particulars.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I have been a dreadful Hypocrite in offering Repen<g ref="char:EOLhyphen"/>tance, when I had none.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>E. P.</hi>
+                  </speaker>
+                  <p>I am a ſtranger to any Repentance you offered.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I have pretended ſuch a thing, tho' you know it not.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>E. P.</hi>
+                  </speaker>
+                  <p>Do you intend any Repentance you have offered for the printing and publiſhing that Book?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>Yes.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>E. P.</hi>
+                  </speaker>
+                  <p>It ſeems you confeſs you ought to repent of the pub<g ref="char:EOLhyphen"/>liſhing of that Book.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>Yes: it requires that Repentance that I ſhall never be</p>
+               </sp>
+               <pb n="24" facs="tcp:105323:16"/>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>'s</speaker>
+                  <p>Friend. Do you think that God is able to pardon you?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>
+                  </speaker>
+                  <p>What is your reaſon?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>God hath ſworn in his wrath, that I ſhall never enter into his Reſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>
+                  </speaker>
+                  <p>How do you know that God hath ſo ſworn concerning you?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>(Setting himſelf down, ſaid) I confeſs a man ſhould not affirm that which he hath no reaſon for.—But roſe up as one diſcontented, and gave no further Anſwer.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>
+                  </speaker>
+                  <p>Pray you let me be more inwardly acquainted with the ſtate of your Soul.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>The wrath of God is kindled and burns within me— It is impoſſible for you to imagine my torment, and this is but an earneſt penny of my eternal damnation.—I have guilt enough upon me to ſink ſeventeen Kingdoms; and I know the Earth would open its mouth and ſwallow me up alive, like <hi>Corah, Dathan,</hi> and <hi>Abiram,</hi> were it not that God hath reſerved me to be a more publick Spectacle of his Anger and diſpleaſure, both to Angels and men.— God hath taken away my Tallent from me, and the influence of the divine Spirit hath altogether left me: I can neither pray, nor deſire others to pray for me; my heart is perfectly hardened.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>
+                  </speaker>
+                  <p>Could you wiſh that thoſe that have an intereſt in God, ſhould improve it for you?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>How ſhould I, when I cannot deſire Jeſus Chriſt to pray for me? I am now out of hopes, for the Prayers of the God<g ref="char:EOLhyphen"/>ly are recorded in Heaven againſt me, (flouds of tears flowing from his Eyes.) Dear bought Experience hath taught me, that it is not a ſmall thing to trifle with the great Concerns of Religion and E<g ref="char:EOLhyphen"/>ternity, as moſt men account it. I have made a God of this World, and neglected God and his Chriſt; and therefore theſe things are juſtly come upon me. I have been a looſe and carnal Profeſſor; and if I were in the place of God, I ſhould meet the ſame meaſure that God doth to me. My Calamity is even at the door, and all men in a little time will juſtifie Gods dealing with me.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>
+                  </speaker>
+                  <p>Pray you explain your ſelf in theſe things.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>(Evading further Diſcourſe) you ſhall have the full Account of it in print.</p>
+               </sp>
+               <sp>
+                  <speaker>His Wife.</speaker>
+                  <p>Who ſhall print it?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>
+                  </speaker>
+                  <p>I ſuppoſe Mr. <hi>Child</hi> intends ſome ſignal Impreſſion by Divine Vengeance.</p>
+               </sp>
+               <pb n="25" facs="tcp:105323:16"/>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>Though what you have ſaid is true, yet it is not what I intended; for I have reſolved to give the World an Account of my Condition in a printed Paper.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>'s</speaker>
+                  <p>Friend. This is an humbling Diſpenſation, that you are exerciſed under.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>An humbling Diſpenſation, do you call it! I tell you it is a hardening Diſpenſation, and I feel it to be ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>E. P.</hi>
+                  </speaker>
+                  <p>I hope there is mercy yet reſerved for you.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I know I ſhall have mercy, ſuch as the damned have. I do highly juſtifie God in his dealings with me.</p>
+               </sp>
+               <sp>
+                  <speaker>A Friend.</speaker>
+                  <p>Your juſtifying the dealings of God with you, is a good ſign.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>God can open the mouths of Reprobates to juſtifie his proceedings.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>
+                  </speaker>
+                  <p>I hope that God will appear in a way of mercy to your Soul, if you ſincerely and heartily apply your ſelf to him.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>The moſt Judicious men know that I am a damned and loſt man.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>
+                  </speaker>
+                  <p>(Walking with him in the Fields) You ſeem now to be more ſetled in your mind.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>Tho' no conſideration can yield me peace or comfort, yet the violence of my Torments admits of ſome intermiſſions; and therefore I am not ſo ſenſibly afflicted at all times, if I had but ſuch a ſence of my ſin as I ought to have, I ſhould burſt aſun<g ref="char:EOLhyphen"/>der, or (like <hi>Judas</hi>) uſe extremity towards my ſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>
+                  </speaker>
+                  <p>What mean you by that paſſage (blaſpheming his Ta<g ref="char:EOLhyphen"/>bernacle) in your Letter to Mr. <hi>J.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>By it I intended reproaching and ſcandlizing the Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>
+                  </speaker>
+                  <p>(Taking the Letter out of his pocket) Do you own the Contents of this Letter?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>Yes, and it was written by me as with the Pen of a ready Writer.—I would fain believe, but all power is taken a<g ref="char:EOLhyphen"/>way from me.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>
+                  </speaker>
+                  <p>I have diſcourſed with Mr. <hi>M.</hi> about your Caſe, and it is his opinion, that a Recantation is your firſt ſtep in order to peace in your mind, and ſpoke it with much concern of your Soul.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>(Shedding many tears and expreſſing a paſſionate in<g ref="char:EOLhyphen"/>quiry) Is this true, that he is concerned for me? By which ex<g ref="char:EOLhyphen"/>preſſion, with the manner of it, Mr. <hi>P.</hi> collected that it gave ſome eaſe to the mind of Mr. <hi>Child,</hi> to have his condition entertained in <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </sp>
+            </div>
+            <div type="part">
+               <pb n="26" facs="tcp:105323:17"/>
+               <head>The ſubſtance of another Conference between Mr. <hi>John Child</hi> and Mr. <hi>H. D.</hi> Mr. <hi>E. M.</hi> Mr. <hi>F.</hi> and Mr. <hi>J. B.</hi>
+               </head>
+               <sp>
+                  <speaker>Mr. <hi>D.</hi>
+                  </speaker>
+                  <p>HOW is it with you, Sir?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I am in great confuſion and diſorder in my Spirit—I have ſinned againſt ſo much Grace, that I am with<g ref="char:EOLhyphen"/>out hopes of receiving mercy.</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>If your trouble is in reſpect of the Book which you have written, whereby you have done ſo much injury to the ſuf<g ref="char:EOLhyphen"/>fering People of God, the beſt way we can adviſe you to, is to free your Conſcience from guilt, will be to make your Repentance and Recantation as publick as your ſin is, <hi>Jo.</hi> 7.19.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I muſt confeſs I ſtand greatly indebted to the Publick, but I am ſo confuſed in my mind, that when I think of doing it, I can do nothing.—There are three things which are a burden to me; my ſin againſt God, which is impardonable; my ſin againſt God's People; and another thing—</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>What is that other?</p>
+                  <p>To which he made no Anſwer.</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>Do you think that impardonable ſin you mentioned, is the ſin againſt the Holy Ghoſt?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I cannot tell.</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>Was what you did, done maliciouſly againſt God, Chriſt and the holy Spirit, and God's People?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>No.</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>Then it may comfortably be concluded, you have not ſinned that ſin, and therefore you may take encouragement from the comfortable words of Chriſt, <hi>viz.</hi> that all other ſins and blaſphe<g ref="char:EOLhyphen"/>mies may be forgiven you, (quoting many proper Scriptures:) Conſider the inſtances of <hi>David, Manaſſeh, Peter, Paul,</hi> and the <hi>Jews</hi> who were guilty of crucifying our Saviour, and imprecated the guilt of his Bloud upon their Children, to whom yet our Saviour in his rich mercy commands his Diſciples firſt to preach the Goſpel. Is your condition worſe than theirs?</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>It may be your Endeavours heretofore, too much to advance Free-will, and the power of the Creature, may be one rea<g ref="char:EOLhyphen"/>ſon why the Lord hath permitted you thus to fall.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>You have hit it, Sir; I once thought there was a power in man, but now I find it otherwiſe, for I cannot pray; the Lord hath taken away the gift of Prayer from me—I have no deſire after any thing that is good. I cannot repent.</p>
+               </sp>
+               <pb n="27" facs="tcp:105323:17"/>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>Chriſt is exalted to be a Prince and a Saviour to give repentance and remiſſion of ſins.—Shall we now pray for you?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>Yes.</p>
+                  <p>Then one of the Company prayed, and upon parting, Mr. <hi>Child</hi> thanked them for their Viſit, and ſaid to this effect:—All this will make againſt me.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>A Conference between Mr.</hi> John Child, <hi>Mr.</hi> T. W. <hi>Mr.</hi> A. B. <hi>and Mr.</hi> F. M.</head>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>AS Phyſicians viſiting their Patients, ſo Friends, one that is wounded in Spirit, enquire what is the cauſe of his grief: We pray you declare your mind herein.—To this, for a<g ref="char:EOLhyphen"/>bout half an hour, they could obtain no Anſwer.</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>The Apoſtle <hi>Paul</hi> endeavoured to recover ſuch again as had fallen from an Article of Faith,<note place="margin">1 Cor. <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 12, 13 2 Tim<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 25, 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> without which they could not be ſaved; and counſelled others in meekneſs to inſtruct ſuch as op<g ref="char:EOLhyphen"/>poſe themſelves, if God peradventure would give them Repentance to the acknowledgement of the truth. What do you think of <hi>Spi<g ref="char:EOLhyphen"/>ra</hi>'s condition?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>
+                     <hi>Spira</hi>'s condition was nothing to mine; for wrath is come and coming on me to the utmoſt, becauſe I have forſaken that which I believed to be true, to embrace that which I knew to be falſe, thro' ſlaviſh fear to keep my ſelf from ſufferings.—I ſought to be great in the world, but God croſt me therein in all my de<g ref="char:EOLhyphen"/>ſigns. And ſince the hand of God hath been upon me, my Spirit hath often-times riſen againſt God that gave me nouriſhment by food and ſleep. (And looking to the Ceiling, ſaid,) I ſee as it were a little light thro' a cranny or creviſe, as if I would deſire to pray. (then Tears came down his Cheeks abundantly, and he ſaid,) If it would pleaſe God to manifeſt himſelf to me, I ſhould be ſuch a Mo<g ref="char:EOLhyphen"/>nument of Mercy as never was in the world, to be a warning to all others.</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>It's the Apoſtles councel, that we confeſs our faults one to another, and pray one for another, that we may be healed.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>(With Tears ſaid) I cannot get this baſe heart to open it ſelf farther.</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>Shall we pray for you?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>No, no, no.</p>
+               </sp>
+               <sp>
+                  <speaker>Company.</speaker>
+                  <p>It's deſired you would ſet down in Writing the heads of your chief Trouble.</p>
+               </sp>
+               <pb n="28" facs="tcp:105323:18"/>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I did write ſomething to that effect; but when I had done, I deſtroyed it.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>Some Paſſages between Mr. <hi>John Child</hi> and ſome of his Friends, collected by Mr. <hi>H. C.</hi>
+               </head>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>(with Mr. <hi>R.</hi>) I Had a turn in my Spirit the laſt week, as a reſult of that warm diſcourſe I had with you and Mr. <hi>H. C.</hi> concerning the eminency and ſoveraignty of the grace of God, but it is now gone again.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>R.</hi>
+                  </speaker>
+                  <p>Implore again the Throne of Grace.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I regard iniquity in my heart, and God will not hear my Prayer. (And ſaid to another) If God ſhould ſend an Angel from Heaven to inform him, he ſhould not believe it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child</hi>
+                  </speaker>
+                  <p>(to Mr. <hi>W.</hi>) I cannot pray.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>W.</hi>
+                  </speaker>
+                  <p>How can you, ſo long as you have a Lye in your right hand? Retract what you have done publickly, or elſe you cannot expect to have an heart to pray.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>(To Mrs. <hi>M.</hi>) How deplorable a thing is this, that I who have preached ſo much of the Glory of another World, ſhould now be deprived of it all!—You will as ſurely ſee me damned, as you now ſee me ſtand here.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>M.</hi>
+                  </speaker>
+                  <p>Have you no intermiſſion?—Do ſuch thoughts always attend you.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I have intermiſſion ſometimes.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>M.</hi>
+                  </speaker>
+                  <p>Do you think God cannot ſave you?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>Yes, he can; or elſe I might deſire to be in Hell im<g ref="char:EOLhyphen"/>mediately.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>M.</hi>
+                  </speaker>
+                  <p>Do you think God will not ſave you?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I cannot believe that he will.</p>
+               </sp>
+               <sp>
+                  <speaker>Mrs. <hi>M.</hi>
+                  </speaker>
+                  <p>What is the cauſe of all this trouble?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>That curſed Book.</p>
+                  <p>Being at one Mr. <hi>C.</hi>'s, in diſcourſe concerning <hi>Francis Spira,</hi> Mr. <hi>Child</hi> ſaid, I am an hundred times greater ſinner than <hi>Spira,</hi> a thou<g ref="char:EOLhyphen"/>ſand times ten thouſand times, yea, a hundred thouſand times a greater ſinner than he.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>C.</hi>
+                  </speaker>
+                  <p>Do you love me?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I love you. (And taking Mr. <hi>C.</hi> by the hand, ſaid) I con<g ref="char:EOLhyphen"/>jure thee by the eternal God, that thou take care of my Wife and Children: I would give ten thouſand worlds for a God, and often— Oh, what an ungodly Family have I! Husband cannot pray, Wife
+<pb n="29" facs="tcp:105323:18"/>cannot pray, Children cannot pray, Servants cannot pray; while others are ſerving their God, we do nothing.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi> Mr. <hi>F.</hi> Mr. <hi>L.</hi>
+                  </speaker>
+                  <p>giving him a Viſit, asked if they ſhould pray with him?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>No, it is too late—The company of good men are a burden to me—They preſt him to publiſh Repentance for his Book that had cauſed him ſo much trouble.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I have ſometimes thought ſo to do; but I am ſo con<g ref="char:EOLhyphen"/>fuſed and confounded in my mind, that I know not what to do: I can do nothing to purpoſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>L.</hi>
+                  </speaker>
+                  <p>(Offering him ſome good Counſel, and he returning no Anſwer, ſaid) Do you think what I ſpeak is inſignificant? is there no weight in what we ſay?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>There is not only enough in what you ſay to raiſe a man from Earth to Heaven, but from Hell to Heaven, unleſs ſuch an one as I, who have an heart of a Devil—I have no heart to read or pray, all good is departed from me.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child,</hi>
+                  </speaker>
+                  <p>to Mr. <hi>M.</hi> asking how it was with him, anſwered, Very ill.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>M.</hi>
+                  </speaker>
+                  <p>Mean you in body, or mind?</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child</hi>
+                  </speaker>
+                  <p>walking up and down the Room very diſconſolate, looking much downward,</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>M.</hi>
+                  </speaker>
+                  <p>ſaid, Why do you look ſo much downward? Look up; for Salvation is not from beneath, but from above.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child</hi>
+                  </speaker>
+                  <p>replied, I would look upward, but I cannot.—To a<g ref="char:EOLhyphen"/>nother he ſaid, That helliſh Book would ruine him in Body and Soul.</p>
+                  <p>Another ſaid, The learned Dr. <hi>Twiſt</hi> in his <hi>Vinditae Gratiae,</hi> con<g ref="char:EOLhyphen"/>feſſeth there were depths in the Controverſie between <hi>Calvaniſts</hi> and <hi>Arminians,</hi> which he could not fathom, yet he believed the truth a<g ref="char:EOLhyphen"/>gainſt the <hi>Arminians.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>Oh I thought I could have dived to the bottom of it by parts, but I ſee I cannot.—And then, and at many other times ſaid—I am broken in Judgment, I have no conſiſtency in my ſelf: Adding—I have trifled in Religion, trifled, trifled many times: I am loſt; there is no hope, no hope.</p>
+                  <p>Another Friend preſent with him, had mentioned and turned to <hi>Prov.</hi> 1.25, 26. <hi>Ye have ſet at nought all my counſel, and would none of my reproof: I alſo will laugh at your calamity, I will mock when your fear cometh.</hi>
+                  </p>
+               </sp>
+               <pb n="30" facs="tcp:105323:19"/>
+               <sp>
+                  <speaker>Mr. <hi>Child</hi>
+                  </speaker>
+                  <p>took the Bible, put his finger on the place, ſhewed it to us, and ſaid, That's my Portion.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>P.</hi>
+                  </speaker>
+                  <p>ſpeaking to Mr. <hi>Child</hi> concerning Redemption and For<g ref="char:EOLhyphen"/>giveneſs thro' Faith in the precious Bloud of Chriſt, and exhorting him to truſt to it.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child</hi>
+                  </speaker>
+                  <p>anſwered, Oh I cannot reach it, I cannot come at it. —Again (with a deep ſigh) ſaid, The black Token of Reproba<g ref="char:EOLhyphen"/>tion are upon me.</p>
+               </sp>
+               <sp>
+                  <speaker>M.</speaker>
+                  <p>You are obliged to ſtoop to the Soveraignty of God.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>Oh I cannot, I would be above him. Oh that there ſhould be an eternal bleſſed Being, and I ſure never to enjoy him! That there ſhould be an eternal Wrath and Puniſhment, and I ſure to fall, to fall under it!—I ſhall be an eternal Monument of the Wrath of God!</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>The Effect of a Conference had with Mr. <hi>John Child,</hi> by <hi>T. P.</hi> between whom there had been for divers years more than a common Intimacy and Converſation.</head>
+               <sp>
+                  <speaker>MR. <hi>Child</hi>
+                  </speaker>
+                  <p>ſignified by a Friend, he had a great deſire to ſpeak with <hi>T. P.</hi> and ſent a ſhort Letter to him to that purpoſe, concluding it thus: [<hi>It may be of advantage to the wretched Soul of him who was formerly known to you by the name of</hi> John Child.]</p>
+               </sp>
+               <sp>
+                  <speaker>T. P.</speaker>
+                  <p>gave him a meeting, and found him in a very dejected and deſpairing frame, full of horror and confuſion, crying out, (as ſoon as his Tears would give him leave) that his condition was exceed<g ref="char:EOLhyphen"/>ing bad; that he was a miſerable wretch; that he had ſinned at an extraordinary rate; that there was no mercy for him; he had been guilty of thoſe things ſpoken of <hi>Pſal.</hi> 50.19, 20. and that the 22th verſe was a dreadful word to him; for as God had there threat<g ref="char:EOLhyphen"/>ned, ſo he would do to him, even tear him in pieces.</p>
+               </sp>
+               <sp>
+                  <speaker>T. P.</speaker>
+                  <p>God there calls upon men who had forgotten him, to con<g ref="char:EOLhyphen"/>ſider in order to Repentance.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>Yea, ſo it was, and that ſometime gave me a little hope; but it was quickly over. (And riſing up and walking, ſmote his breaſt, ſaying,) Sir, I am damned, I am damned; it is moſt certainly ſo! my day is over. Oh that it were with me as in days paſt! but it is too late: The Decree is gone forth, it is ſealed in Heaven, and it is irreverſible: Jeſus cannot now ſave me; he will not, he cannot mediate for me, I have ſo much offended him, in maliciouſly abuſing his People.—Oh what a Wretch was I! what a <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </sp>
+               <pb n="31" facs="tcp:105323:19"/>
+               <sp>
+                  <speaker>T. P.</speaker>
+                  <p>Remember the goodneſs of God to Mankind.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>That is a truth ſtill, that is a truth ſtill, but I cannot lay hold on it: and by how much the more I have believed and aſſerted it, ſo much the greater is my Sin and the aggravation of my Condemnation.</p>
+               </sp>
+               <sp>
+                  <speaker>T. P.</speaker>
+                  <p>Remember what the Prophet ſpeaks, <hi>Jer.</hi> 3.5, 12, 13. <hi>Will he reſerve his anger for ever</hi>— <hi>Behold, thou haſt ſpoken and done evil things as thou couldst, Go and proclaim theſe words</hi>— <hi>Return thou backſliding Iſrael</hi>— <hi>I am merciful, ſaith the Lord, I will not keep anger for ever, only acknowledge thine iniquity—</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>T. P.</speaker>
+                  <p>Knowing his former temper of Spirit, told him, he feared his Pride and Ambition had prompted him to do and publiſh ſuch things, whereof he now felt the unſupportable ſmart.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>This is true, Pride and Covetouſneſs hath ruined me, it hath undone me, I have been too much influenced thereby; I have been an Hypocrite; I am ſo now; I ſeem to repent; I do not, I cannot repent.</p>
+               </sp>
+               <sp>
+                  <speaker>T. P.</speaker>
+                  <p>I adviſe you to take care of your health, and conſult with ſome able Phyſician, leſt this diſtreſs and horror of mind bring you under ſuch Diſtempers as may render you more uncapable of recei<g ref="char:EOLhyphen"/>ving that advice and comfort that may be offered to you from the Word of God.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child</hi>
+                  </speaker>
+                  <p>walking to the end of the Room, turned back with a very ſtern countenance, and ſtriking his hand on his breaſt, ſaid, No, Sir, I cannot pamper this Body, for God will have it made a remarkable Example to this Generation.</p>
+               </sp>
+               <sp>
+                  <speaker>T. P.</speaker>
+                  <p>I adviſe you to frequent hearing the Word of God.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Child.</hi>
+                  </speaker>
+                  <p>I have no inclination to it.</p>
+               </sp>
+               <sp>
+                  <speaker>T. P.</speaker>
+                  <p>Offered that ſome ſhould come and improve ſome hours in Prayer to God for him; but to this Mr. <hi>Child</hi> gave no anſwer.</p>
+                  <p>This is the ſubſtance of what paſſed betwixt us about the begin<g ref="char:EOLhyphen"/>ning of <hi>August.</hi> And ſoon after, going a Journey, I ſaw him no more.</p>
+                  <p>Many other Paſſages, to the like effect, were uttered from Mr. <hi>Child,</hi> with which his countenance, geſtures, and whole behaviour, bore ſuch a proportion, as were ſufficient to evidence to all perſons of underſtanding and ſobriety, who had formerly known him, and then heard and beheld him, that he apprehended the Arrows of the Almighty to ſtick faſt in him, and that the troubles, darkneſs, confuſions, horrors and affrightments of his Soul, were not leſs, if they were not much more, than his Tongue expreſt. In the dread
+<pb n="32" facs="tcp:105323:20"/>and fear of the righteous Judgments of him who is the ſearcher of all hearts, whom this Man had ſo highly offended, in ſinning a<g ref="char:EOLhyphen"/>gainſt the light and checks of his Conſcience, I ſuffer not my thoughts to run out concerning his Eternal Eſtate. His remorſe of Conſcience, ſelf-condemnation, frequent asking forgiveneſs of his offended Brethren, begging the Prayers of others, and attempts to pray himſelf, ſeemed to ſavour of that which himſelf would not al<g ref="char:EOLhyphen"/>low to be called repentance, perhaps becauſe his publick recanta<g ref="char:EOLhyphen"/>tion of the injuries done to his Brethren (which he acknowledged to be juſt, but by reaſon of ſhame, and thereby expoſing himſelf to ſufferings and loſſes, he could not bring his heart throughly to con<g ref="char:EOLhyphen"/>ſent to it) were by ſome made the terms of it. And however it pleaſeth God, in his long-ſuffering, to permit, without an open re<g ref="char:EOLhyphen"/>buke, ſuch as make it a trade, for gain ſake, without any diſtin<g ref="char:EOLhyphen"/>ction of perſons, as ignorantly as maliciouſly to brand and calum<g ref="char:EOLhyphen"/>niate a whole Society, with the high Crimes committed by ſome few that bear their Name, to the ſcandal and grief of all their Bre<g ref="char:EOLhyphen"/>thren, yet our God is a terrible God, that accepteth no man's per<g ref="char:EOLhyphen"/>ſon, nor taketh rewards, but is known by the Judgments he execu<g ref="char:EOLhyphen"/>teth; and in this Perſon we have a dreadful Inſtance of his High Diſpleaſure againſt ſuch, who by their Converſation amongſt their Brethren, know how to diſtinguiſh between the guilty and the in<g ref="char:EOLhyphen"/>nocent, and yet will dare preſumptuouſly, for private and ſelfiſh ends, hypocritically, and againſt the dictates of their own Know<g ref="char:EOLhyphen"/>ledge and Conſcience, maliciouſly to accuſe a whole Party, as guilty of ſuch things, whereof he knows, (if there be any) it is but here and there one among thouſands, that have ever adminiſtred any occaſion for ſuch an accuſation: which may be a warning to us all how we offend in the like kind.</p>
+               </sp>
+            </div>
+            <div type="content_and_response">
+               <pb n="33" facs="tcp:105323:20"/>
+               <head>Mr. <hi>John Child</hi>'s Aſperſions in his printed Plea of the Nonconformiſts for the Con<g ref="char:EOLhyphen"/>formiſts, to which, as we ſuppoſe, his Paper, written with his own Hand, tran<g ref="char:EOLhyphen"/>ſcribed in the other Colume, refers.</head>
+               <head>Mr. <hi>Child</hi>'s Recantation in his Paper, written with his own Hand.</head>
+               <p>
+                  <hi>That it is a diſhonour to the Church and Clergy of</hi> England, <hi>to have ſuch an one, that hath no more Wit, ſo little Juſtice, Reaſon and Con<g ref="char:EOLhyphen"/>ſcience, plead for them; that the Author of this Libel is worthily ſo repreſented, appears by divers baſe, falſe, deviliſh and moſt ſcandalous Paſſages therein contained.</hi>
+               </p>
+               <div type="content">
+                  <p>
+                     <hi>Page</hi> 5. THE Nonconformiſt have no Order at all, eſpecially the generality of Me<g ref="char:EOLhyphen"/>chanical Preachers in that Way; for either they leave their Cal<g ref="char:EOLhyphen"/>lings, and Concerns of their Families, and run up and down Preaching of their own Heads, upon a phanſical ſuppoſition, that they are able to Preach; or elſe, at moſt, have but the conſent and connivance of a few weak perſons, like themſelves, who are altogether incompitent Jud<g ref="char:EOLhyphen"/>ges in ſuch a weighty Caſe. The Caſe being truly thus, as we are able to make it good.</p>
+               </div>
+               <div type="response">
+                  <p>THey are repreſented as a People weak and phanati<g ref="char:EOLhyphen"/>cal, and not rendring a tolerable Reaſon for their differing from others, which is a deviliſh ſtroke made by a back blow; to aſſert the Nonconformiſt have no kind of Order in ſending forth their Miniſters; that Preachers run on their own heads, upon a phanſiful ſuppoſition, that they are able to Preach, or, at moſt, have but the conſent and connivance of a few weak perſons, is a Deviliſh Lye, as thouſands can witneſs; to ſay, it is a true ſtate, or the Caſe being truly thus, as we are able to make it good, Is a Lye, if poſſible, more than damnable.</p>
+               </div>
+               <div type="content">
+                  <p>
+                     <hi>Pag.</hi> 6. I durſt undertake, upon a ſober debate, to make good, that that looſe kind of way, made uſe of by them, is above meaſure more intolerable and inconvenient than that of the Church of <hi>England.</hi>
+                  </p>
+               </div>
+               <div type="response">
+                  <p>To ſuggeſt again, that he is able to make good a looſe kind of way amongſt them, more in<g ref="char:EOLhyphen"/>tolerable than thoſe they deſcent from, is a wicked and baſe reflecti<g ref="char:EOLhyphen"/>on, and indeed a downright lie.</p>
+               </div>
+               <div type="content">
+                  <pb n="34" facs="tcp:105323:21"/>
+                  <p>
+                     <hi>Pag.</hi> 7. To hear ſome Mi<g ref="char:EOLhyphen"/>niſters of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> is not to the diſhonour of God, diſcommodious to the Souls of Men here, nor hazar<g ref="char:EOLhyphen"/>dous of their Salvation hereaf<g ref="char:EOLhyphen"/>ter.</p>
+               </div>
+               <div type="response">
+                  <p>Once to ſuppoſe, that the Non<g ref="char:EOLhyphen"/>conformiſts in general do hold, is a diſhonour to God, diſcom<g ref="char:EOLhyphen"/>modious to the Souls of Men here, and hazardous of their Sal<g ref="char:EOLhyphen"/>vation hereafter, to hear good Mi<g ref="char:EOLhyphen"/>niſters of the Church of <hi>England,</hi> is moſt weak and deviliſh.</p>
+               </div>
+               <div type="content">
+                  <p>
+                     <hi>Page</hi> 11. How ſhall we be<g ref="char:EOLhyphen"/>lieve our Nonconformiſts have ſuch a reverence for thoſe good men that are dead— when they diſdain and reject thoſe now a<g ref="char:EOLhyphen"/>live that are under the ſame cir<g ref="char:EOLhyphen"/>cumſtances.</p>
+               </div>
+               <div type="response">
+                  <p>To declare, that the Noncon<g ref="char:EOLhyphen"/>formiſts do diſdain and reject the good Miniſters of the Church of <hi>England,</hi> now alive, is a vile ſlan<g ref="char:EOLhyphen"/>der unjuſtly caſt upon them.</p>
+               </div>
+               <div type="content">
+                  <p>
+                     <hi>Pag.</hi> 14. We do ſay, though the Nonconformiſts may be ho<g ref="char:EOLhyphen"/>neſt and well-meaning People, yet, for the moſt part of them, they are far below ſome Mi<g ref="char:EOLhyphen"/>niſters afore-mentioned, both for Learning, Parts, Pru<g ref="char:EOLhyphen"/>dence, Policy, yea, and Pie<g ref="char:EOLhyphen"/>ty too.</p>
+               </div>
+               <div type="response">
+                  <p>To ſay, though they are well-meaning People, yet they are far below ſome Miniſters of the Church of <hi>England,</hi> is monſtrous fooliſh, for ſo are the moſt part of the People of the Conformiſts be<g ref="char:EOLhyphen"/>low ſome Miniſters of the Non<g ref="char:EOLhyphen"/>conformiſts, for Learning, Parts, Prudence, and Policy too. At what a learned rate doth this wicked Scribler argue.</p>
+               </div>
+               <div type="content">
+                  <p>
+                     <hi>Pag.</hi> 17. To ſay, there is grea<g ref="char:EOLhyphen"/>ter Learning amongſt them than the generality of others.</p>
+               </div>
+               <div type="response">
+                  <p>To ſay, there is greater Learn<g ref="char:EOLhyphen"/>ing with the Church-Miniſters, than with others, is a baſe and unworthy Compariſon; it being well known, there are learned and worthy Men amongſt the Nonconformiſts, as moſt are in the World.</p>
+               </div>
+               <div type="content">
+                  <p>
+                     <hi>Pag.</hi> 18. Take two or three Mechanicks in a Town, and put to theſe ſo many Prieſts and Je<g ref="char:EOLhyphen"/>ſuits to diſpute, and what fearful bafling work will they make with theſe poor Mechanicks or Lay-Preachers.</p>
+               </div>
+               <div type="response">
+                  <p>To put Lay-Preachers to di<g ref="char:EOLhyphen"/>ſpute with Prieſts and Jeſuits, when there are Men learned and able to match them beſides theſe, and then to ſuppoſe the victory on the Papiſt-ſide, is baſe and diſingenious.</p>
+               </div>
+               <div type="content">
+                  <pb n="35" facs="tcp:105323:21"/>
+                  <p>
+                     <hi>Pag.</hi> 19. 1. For their Inſti<g ref="char:EOLhyphen"/>tution and Ordination, they have, 1. Perſons of ripe Age, great Learning, and much Ex<g ref="char:EOLhyphen"/>perience, to come before, who have Power and Parts to exa<g ref="char:EOLhyphen"/>mine and try their fitneſs. 2. They have afterwards Congregations to preach before, for the appro<g ref="char:EOLhyphen"/>bation or diſlike; and if they ſhall be found fit to paſs an in<g ref="char:EOLhyphen"/>duction, then there is a comfor<g ref="char:EOLhyphen"/>table ſupport and maintenance for them, to incourage and carry them on incourage and carry them on in their Work. Now of this uſeful Order, there is in a manner a total vacancy amongſt the Nonconformiſts— No Main<g ref="char:EOLhyphen"/>tenance for them, in caſe found fit— The Poor better provided for under the Miniſters of the <hi>Church of England,</hi> than elſewhere.</p>
+               </div>
+               <div type="response">
+                  <p>To condemn the Party, for ſhortneſs in a few, in reſpect of the Miniſters and the Poor, is horrible Injuſtice; To ſay, there is a total vacancy of any uſe<g ref="char:EOLhyphen"/>ful Order amongſt the Non<g ref="char:EOLhyphen"/>conformiſts, in reſpect of Proof, Tryal, Ordination, and Mainte<g ref="char:EOLhyphen"/>nance, is ſo grand a Lye, that the Devil himſelf can<g ref="char:EOLhyphen"/>not have confidence enough to aver it.</p>
+               </div>
+               <div type="content">
+                  <p>
+                     <hi>Pag.</hi> 20. The Nonconformiſts in their carriage, are very ſurly and dogged, ſour and moroſe.</p>
+               </div>
+               <div type="response">
+                  <p>To ſay, they are in their com<g ref="char:EOLhyphen"/>mon carriage, ſurly, dogged, ſour, and moroſe, is ſo grand a lye, that thouſands and ten thouſands can atteſt againſt it.</p>
+               </div>
+               <div type="content">
+                  <p>
+                     <hi>Pag.</hi> 21. The Doctrine of many Nonconformiſts hath been to ſet out God to be a vehement, rigid and ſevere Being, ready to take advantage, nay, to make them, ra<g ref="char:EOLhyphen"/>ther than fail, inſtancing the <hi>Epiſt.</hi> of <hi>Jude,</hi> that ſome are made to be taken and deſtroyed, and that <hi>E<g ref="char:EOLhyphen"/>ſau,</hi> with the generality of others, were hated by him that made them, without reſpect to any cauſe on their parts, intimating the unmercifulneſs of God to the moſt part of Mankind, making of <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="response">
+                  <p>To charge an ill chain of Doctrines and Principles upon a Party, when not one in a thouſand do hold the ſame, is a kind of Juſtice and Charity that comes from Hell.</p>
+               </div>
+               <div type="content">
+                  <pb n="36" facs="tcp:105323:22"/>
+                  <p>
+                     <hi>Pag.</hi> 22. And that becauſe we are all as dead (whilſt we are a<g ref="char:EOLhyphen"/>live) as a Stock or a Stone, or, as a Mechanick had it lately in his Pulpit, as dead as a Corps, that lyes by the Walls in a Cof<g ref="char:EOLhyphen"/>fin, ready for burial; That there is no neceſſity for obedience to pleaſe God, or work out our own Salvation: Nay, as one Mr. <hi>B</hi>— phraſed it, not long ſince in a Pulpit, It is Deviliſh, yea, Witch<g ref="char:EOLhyphen"/>craft and Sorcery, for any to preach up doing for the obtain<g ref="char:EOLhyphen"/>ing Life and Salvation; and that love to God himſelf is not ne<g ref="char:EOLhyphen"/>ceſſary to a man's being ſaved.</p>
+               </div>
+               <div type="response">
+                  <p>When one man ſhall preach a groundleſs Notion or Doctrine, and a Party ſhall be abuſed for it, it is very hardly leſs than damnable; many thouſands do hold noble Principles that have not affinity with a wronging God, Man, or the Goſpel.</p>
+               </div>
+               <div type="content">
+                  <p>
+                     <hi>Pag.</hi> 24. I do profeſs, ſince I have allowed my ſelf a little li<g ref="char:EOLhyphen"/>berty to hear the Miniſters afore<g ref="char:EOLhyphen"/>ſaid, I have been greatly aſhamed to think how ill I have ſpent my time, to ſit under the preaching of pitious weak Souls of the other ſide, and am not at all pleaſed, to ſee well meaning People ex<g ref="char:EOLhyphen"/>poſe themſelves for ſuffering for ſo ill a Work.</p>
+               </div>
+               <div type="response">
+                  <p>To ſpend time in ſitting under pitious weak Souls, is better than to ſpend it in damnable lyes and ſlanders againſt good men.</p>
+               </div>
+               <div type="content">
+                  <p>
+                     <hi>Pag.</hi> 25. For by this means they may come to ſee by an ea<g ref="char:EOLhyphen"/>ſie rule of compariſon the weak<g ref="char:EOLhyphen"/>neſs and inſufficiency of thoſe that they formerly adhered to, and admired, together with the great worth and value, that is in the other, whom they before ſo ſlighted, and eſteemed as the Sons of <hi>Beelzebub,</hi> the Mer<g ref="char:EOLhyphen"/>chants of <hi>Babilon,</hi> or, at beſt, but the broken Army of <hi>Magog;</hi> the ſight and underſtanding of which
+<pb n="37" facs="tcp:105323:22"/>(I doubt not) be an effectual means to cure them of that diſtemper, which, for the extravagancy of it, may be called a Vertigo or Ca<g ref="char:EOLhyphen"/>lenture.</p>
+               </div>
+               <div type="response">
+                  <pb n="36" facs="tcp:105323:22"/>
+                  <p>To ſet forth the Nonconfor<g ref="char:EOLhyphen"/>miſt ſetting light by Church-Miniſters, eſteeming of them Sons of <hi>Beelzebub,</hi> Merchants of <hi>Babilon,</hi> or broken Armies of <hi>Magog,</hi> is highly deviliſh, full of poiſon, and calls for great dam<g ref="char:EOLhyphen"/>nation; to affirm, that the gene<g ref="char:EOLhyphen"/>rality of the Nonconformiſt-Preachers, are weak, ſhallow, il<g ref="char:EOLhyphen"/>literate and inconſiderate Men, is a damnable lye, for they are generally ſober and thinking
+<pb n="37" facs="tcp:105323:22"/>men; to call them Brethren, with ſuch blaſting and poiſonous breath, is the Serpent, and worſe than a Dog.</p>
+               </div>
+               <div type="content">
+                  <p>
+                     <hi>Pag.</hi> 26. If the Nation ſhould be influenced by ſuch men (as the flocking to them, and leaving the other tends thereunto) then down goes our Schools of Learn<g ref="char:EOLhyphen"/>ing, the famous Univerſities, and not only ſo, but down goes our Churches and Publick Meeting-places, which are the beſt con<g ref="char:EOLhyphen"/>veniences for ſolemnizing of Gods Publick Worſhip. As I knew a <hi>mechanic Brother</hi> once, that wiſh<g ref="char:EOLhyphen"/>ed, that all the Pariſh-Churches in <hi>England</hi> were of one intire body, and that he was able with a Cable to draw them into the Sea, he would do it, thô he periſhed with them. And this not all neither, but down goes the Miniſters Maintenance— I might inlarge here, but I ſpare the weak. 1. They deny Learning. 2. They trample Tradition. 3. Reaſon itſelf; this noble and renown<g ref="char:EOLhyphen"/>ed Soul falls under the ſame misfortune, with its good old Friend and Neighbour, Tradition. Oh! what Clamours have we raiſed againſt it, calling of it carnal Reaſon, corrupted Reaſon, blind Guide, and what not, and blows ſtruck ready to break the Pulpit, that they may thump it down ſufficiently.</p>
+               </div>
+               <div type="response">
+                  <p>To bring in one perſon that might be mad and miſlead, and E<g ref="char:EOLhyphen"/>nemy to Pariſh-Churches and de<g ref="char:EOLhyphen"/>ſire their downfal, and to lodge this at the doors of the Party, It makes the Author a grand Devil. That paſſage [I might enlarge here, but I ſpare the weak] ſavours of contempt and helliſh pride; to ſay, that they deny Learning, tram<g ref="char:EOLhyphen"/>ple upon Tradition, and beat down Reaſon, is ſo grand a lye, that the Author can never ſtand under it, when God comes to judge for it.</p>
+               </div>
+               <div type="content">
+                  <p>
+                     <hi>Pag.</hi> 28. They tolerate men uncapable of the former, and ve<g ref="char:EOLhyphen"/>ry defective in the latter, ſuch whoſe learning never made them capable of reading with a di<g ref="char:EOLhyphen"/>dinct and proper pronunciation.</p>
+                  <p>They ſlight, undervalue, and re<g ref="char:EOLhyphen"/>ject men of the beſt parts and learning in the Land, as might be made appear, nor only by the ſur<g ref="char:EOLhyphen"/>ly carriages they ſhew towards them, but by ſhunning their company, and at all times refuſing to hear them.</p>
+                  <pb n="38" facs="tcp:105323:23"/>
+                  <p>—To ſet aſide more private diſ<g ref="char:EOLhyphen"/>orders, we have them that are o<g ref="char:EOLhyphen"/>pen to the ſight of the Sun; <hi>viz.</hi> forty diſtinct Sects, ſome ſay twenty at leaſt.—</p>
+               </div>
+               <div type="response">
+                  <pb n="37" facs="tcp:105323:22"/>
+                  <p>That they tolerate Men unca<g ref="char:EOLhyphen"/>pable of Tradition, and defective in Reaſon, ſlight and reject men of the beſt parts and learning in the Land, and ſhew it by ſuch carria<g ref="char:EOLhyphen"/>ges, and ſhunning their company at all times, refuſing to hear them.</p>
+                  <p>This is ſo notorious and foul a ſlander, that declares the Author to be a blind and beſotted Devil.</p>
+                  <pb n="38" facs="tcp:105323:23"/>
+                  <p>To number up the Sects to twenty or forty, carries a ſecret malice in it, that muſt be ac<g ref="char:EOLhyphen"/>counted for.</p>
+               </div>
+               <div type="content">
+                  <p>
+                     <hi>Pag.</hi> 29, 30. That ſuch do moſt abound and we are moſt certain to have them in the Miniſtry of the <hi>Church of England;</hi> for the clearing of this, the experience of many years tells us, that out of the Miniſtry of the <hi>Church of England,</hi> we have had Men fit to Preach before great and mighty Princes, the high Courts of Par<g ref="char:EOLhyphen"/>liament, the grave and reverend Judges of the Realm, the Magi<g ref="char:EOLhyphen"/>ſtrates and Courts of Aldermen in great Cities and Corporations; yea, their Learning and Educa<g ref="char:EOLhyphen"/>tion hath been ſuch, as hath rendred them fit to be Counſellors of State, to give Advice to Princes, to go Ambaſſadors upon grand Meſ<g ref="char:EOLhyphen"/>ſages (for their Countrey's good) into Foreign Parts: But where have any aroſe out of the Mechanic Preachers of the Nonconformiſts? And is not this for the honour of a Nation, where Science ſhall ſo flouriſh) that a ſort or rank of men, which commonly is below the Gentry, in point of deſcent, ſhould, by Learning and good Educa<g ref="char:EOLhyphen"/>tion, become able to deliver God's Meſſage to their Princes and Rulers, and their Princes Ambaſſages to Foreign States; and would not all this be loſt, if the Nation ſhould be ſuffered to loſe its Learn<g ref="char:EOLhyphen"/>ing, and to be immerſed into dull and clowniſh Illiteracy?</p>
+                  <p>There will be a freedom from a needleſs charge, in contributing to the maintenance of weak and ſilly Men, who careleſly leave either their civil Callings, (and expoſe their Families to ruin and decay, and to de<g ref="char:EOLhyphen"/>pend upon others to be provided for) under a pretence of being called to Preach, when God knows they do not underſtand their <hi>A,B,C,</hi> in Religion, can hardly ſpeak common ſence, and are ſo far from being able to convince critical Gainſayers, as that they know not how to teach the Ignorant, or to form one right intelligible Notion of Points fundamental, nay, ſuch they are, as often preach Nonſence, Confuſion, and ſometimes Blaſphemy.</p>
+               </div>
+               <div type="response">
+                  <p>It is ſuggeſted, as if the learning of the Nation, and mens being made uſeful thereby, was in danger of being loſt, if the Noncons ſhould proſper; That many Preachers leave their Gallings and Families, under pretence of being called to preach, that underſtand not their <hi>A,B,C,</hi> can hardly ſpeak common Sence, that often preach Nonſence, Confuſion, and ſometimes Bla<g ref="char:EOLhyphen"/>ſphemy, that have not an habit of Knowledge, nor Books, nor allow themſelves time to ſtudy.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="39" facs="tcp:105323:23"/>
+               <head>A further Account of the ſad State of Mr. <hi>John Child,</hi> as it was written with his own Hand, being found in his houſe after his death, and delivered by his Wife to Mr. <hi>H.C.</hi> take as fol<g ref="char:EOLhyphen"/>loweth.</head>
+               <head type="sub">Pride, Folly, Madneſs, Villany, and great wickedneſs retracted.</head>
+               <p>THat Satan may fill the hearts of men as to make them forget God, grieve his good Spirit, ſin againſt Chriſt, offer horrible violence to the light of Grace, the ſacred Law of their Maker, and the rational powers of their own Souls, as well as cauſe grief and piercing ſorrow to the hearts of their dear Brethren, is not only ve<g ref="char:EOLhyphen"/>rified and confirmed by variety of bad Examples, and inſtances both from Scripture and Hiſtory, but hath alſo appeared notorious and evident in a late unparallel'd inſtance of one who hath been a Pro<g ref="char:EOLhyphen"/>feſſor of the Chriſtian Religion, and that after the moſt ſtricteſt manner of theſe latter times for many years, <hi>viz.</hi> The Author of the <hi>Second Argument;</hi> who forgetting God, and the great Obligation he ſtood in to Him and to all Mankind, eſpecially the good and beſt part thereof, did ſuffer himſelf ſo far to be acted by a diabolical in<g ref="char:EOLhyphen"/>fluence, and the miniſtry of Darkneſs, as not only to deſert thoſe perſons which he did believe and knew to be God's Jewels, (choice and good) but with a hard heart, and bold, impudent, and ſteeled forehead, a moſt poyſonous breath, and viperous tongue, did ſet forth, to the great diſhonour of God, and the unſpeakable grief of multitudes of good and pious Souls, a prophane and ſcandalous Libel, under pretence of perſwading to Peace and Unity; where<g ref="char:EOLhyphen"/>as the chiefeſt deſign of it was to advance his Pride, to vent his Spite, and maliciouſly to ſpit forth the very Fire of Hell againſt ſome, yea againſt many that he had taken offence at: which with ſhame and great confuſion he deſires to confeſs both to God and Man, and eſpecially to ſuch as knew him, and were ſorely grieved and offended by him.</p>
+               <p n="1">1. He confeſſes his great pride, fooliſhneſs, and preſumption, in daring ſo much as to offer at a Method to Unite ſuch different Parties, with whoſe Wiſdom, Parts, and Learning, he had no<g ref="char:EOLhyphen"/>thing
+<pb n="40" facs="tcp:105323:24"/>to compare; for which he is bowed down, and asketh par<g ref="char:EOLhyphen"/>don.</p>
+               <p n="2">2. In giving the leaſt touch, glance, or intimation, as tho' God's Ordinance of the Holy Supper, were ſo low and indifferent a thing, as might be made uſe of to anſwer a carnal end, or ſecular de<g ref="char:EOLhyphen"/>ſign.</p>
+               <p n="3">3. That he ſhould render men odious to the Nation, as being E<g ref="char:EOLhyphen"/>nemies to the Miniſtry and their maintenance, and the proviſion made by Law for the poor; for this he accuſeth himſelf of being injurious, and prays for pardon.</p>
+               <p n="4">4. That he ſhould baſely reflect upon mens Callings in a way of lightneſs and diſdain; he thinks it great madneſs and folly, and begs pardon both of God and man for it.</p>
+               <p n="5">5. That he ſhould ſo boldly and preſumptuouſly pry into the De<g ref="char:EOLhyphen"/>crees of God, and ſo abuſively ſet forth the conſequences of mens Opinions about them, in ſuch horrid, harſh, and unſuitable Lan<g ref="char:EOLhyphen"/>guage, charging the Authors of thoſe Opinions with the higheſt ſtrain of Murder, even of God himſelf, he is unfeignedly ſorry, and begs pardon. And that he ſhould render the Body of the Nonconformiſts weak, fooliſh, and contemptible to their Enemies, he thinks were great wickedneſs, and that he ſhould call them a villanous Body of men, he confeſſeth with a bleeding heart, ſo high a ſtrain and degree of wickedneſs in it, that 'tis like blaſphe<g ref="char:EOLhyphen"/>ming God's Tabernacle, and them that dwell therein; for which he is ſorry a thouſand fold, and begs the pardon of God and all good men. That he ſhould give occaſion of ſtumbling to any, whereby he may be guilty of their bloud, at the thoughts of which he trembles, and begs pardon with his whole Soul. That he ſhould ſpeak againſt his Brother, and ſlander his Mothers Son, ma<g ref="char:EOLhyphen"/>king the hearts of the Righteous ſad, that God would not have made ſad, and pain and grieve all that were acquainted with him; this he confeſſes to be a ſin of a deep dye, and his heart is ready to rend aſunder for it, and with an agony begs pardon of God and all good men. That he ſhould bring ſuch ſhame and confuſion upon himſelf, as to exclude him the comfortable ſociety of good people, and render him both afraid and aſhamed to do his duty in viſiting thoſe that are under affliction; for theſe great wicked<g ref="char:EOLhyphen"/>neſſes and damnable villanies, and any other that may be contain<g ref="char:EOLhyphen"/>ed in that deteſtible and accurſed Pamphlet aforeſaid, which for want of the ſight of, I cannot enumerate. I confeſs my ſelf a monſtrous Wretch, a great Tranſgreſſor, an horrible Actor of wic<g ref="char:EOLhyphen"/>kedneſs,
+<pb n="41" facs="tcp:105323:24"/>a Gratifier of the wicked and worſt of men, a prime Ene<g ref="char:EOLhyphen"/>my to many godly people, a Promoter of the Devil's deſigns, a great Provoker of God and his Son, an Enemy to my ſelf, a Pro<g ref="char:EOLhyphen"/>curer of the ruine of my Family; for which I pray that my Soul may eſcape the damnation of Hell. <hi>Amen</hi> and <hi>Amen,</hi> O God.</p>
+            </div>
+            <div type="part">
+               <head>Another Paper written as a Poſtſcript to the former, by Mr. <hi>John Child</hi>'s own hand; a Copy whereof take as followeth.</head>
+               <p>HAving met with the vile and accurſed Book called the <hi>Se<g ref="char:EOLhyphen"/>cond Argument,</hi> and the Author being filled with horrour and aſtoniſhing confuſion, at the peruſal of it, could not well tran<g ref="char:EOLhyphen"/>ſcribe the firſt Paper, and put things into an orderly method; therefore thought fit to write this by way of Poſtſcript.</p>
+               <p>
+                  <hi>First,</hi> He thanks God that he is not yet in Hell, lamenting his folly, wickedneſs, and violence with <hi>Cain, Baalam,</hi> and <hi>Jud<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>;</hi> but has a little time to leave this Account of things, in reſpect of the firſt deſign and progreſs of the ill-contrived, infamous, re<g ref="char:EOLhyphen"/>proachful, and ſcandalous Libel.</p>
+               <p n="1">1. That the very beginning in theſe words, [it hath been our endeavour to correct, <hi>&amp;c.</hi>] is deviliſhly proud and inſolent; 2d. part [a ſight of their folly in being debarred of their Civil Rights, for groundleſs Scrupuloſities in Religion] this is bold, ſaucy, and uncharitable. The 2d. page, and part of the 3d. a ſilly trifling Preſumption. 4. The 4th page, the ſuggeſting any thing of an undervaluing nature, touching the Holy Sacrament being a civil thing, of a dangerous tendancy. Declaring in page 9. to the greateſt number of Nonconformiſts to hold Principles dan<g ref="char:EOLhyphen"/>gerouſly Heretical, and abominably abuſive of the bleſſed God.] This he confeſſeth not only to be a raſh, injurious, and uncha<g ref="char:EOLhyphen"/>ritable, but a deviliſh, ſpiteful, and malicious Slander; to be not only hard Meaſure, but helliſh Cruelty and Injuſtice; to ſtretch the conſequences of mens Principles, beyond the ſence of their minds, and then charge wickedneſs upon them is againſt Juſtice, Mercy, and all good Nature; to impute ſuch ill things to the main Body or greateſt number of them, that is contained in the two following pages; as it is bold and deſperate to report the
+<pb n="42" facs="tcp:105323:25"/>matter, ſo it is moſt horrible Injuſtice, and malicious Envy, to fix the Crime, to declare them upon a wicked foundation to be no true Church, to pronounce them a<note n="*" place="margin">One of the Paſſages he here <gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>lects upon, is his printed <hi>Se<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#MURP" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>ed Argument,</hi> expreſſed in <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eſe words, <hi>pag.</hi> 11.</note> 
+                  <hi>Villanous Body of People,</hi> to be bloudy Murderers of God their Maker in the attributes of his Wiſdom, Holineſs, and Goodneſs, to proclaim them Mon<g ref="char:EOLhyphen"/>ſters, to be giddy and fooliſh, to want Wit and Policy, is ſuch a venomous Lan<g ref="char:EOLhyphen"/>guage,<note place="margin">Now if a ſound and true Notion of God be the firſt and foundation-Principle of Religion, and conſe<g ref="char:EOLhyphen"/>quently of a true Church, then ſuch as have it not, but the manifeſt and direct contrary, can be no true Church, becauſe upon a wicked and falſe foundation. Such I am ſure there are among the Sectaries: and if ſuch a Villanous Body of People is the beſt and true Church, that e<g ref="char:EOLhyphen"/>ven in their firſt and main Princi<g ref="char:EOLhyphen"/>ple thus bloudily murder their Ma<g ref="char:EOLhyphen"/>ker in his moſt admirable Attributes of Wiſdom, Holineſs, and Goodneſs; I do wonder in my mind what kind of People the World is.</note> that Hell could not ex<g ref="char:EOLhyphen"/>ceed. Being in very deed hor<g ref="char:EOLhyphen"/>ribly wicked, abominable, and deviliſh; juſtly deſerving dam<g ref="char:EOLhyphen"/>nation, and for which the Au<g ref="char:EOLhyphen"/>thor doubts he ſhall hardly e<g ref="char:EOLhyphen"/>ſcape. And <hi>page</hi> 13. to repre<g ref="char:EOLhyphen"/>ſent them Enemies to the Bi<g ref="char:EOLhyphen"/>ſhops and Clergy, Underminers of the Schools and Learning, and againſt the Law for the Maintenance of the Poor, was ſpightful, deviliſh, and malici<g ref="char:EOLhyphen"/>ous and had a tendency to ſtir up Rage and Perſecution; for which a deep Repentance is re<g ref="char:EOLhyphen"/>quired. To mention mens Cal<g ref="char:EOLhyphen"/>lings in a way of lightneſs and contempt, to expoſe them to Hate and Deriſion, was highly baſe, deviliſh, and full of poyſon. Publickly to diſcover Nakedneſs, tho' matters of fact were true, is againſt all good Nature, and a very great piece of prophaneſs. To reflect upon them as Deniers of the Faith, and worſe than Infidels, not fit to be truſted with a National Church, nor to be a true Church themſelves, is a condemning to ſo high degree, and carries ſo much of the rank poyſon and venome of the Devil, the Accuſer of the Brethren, in it, that renders forgive<g ref="char:EOLhyphen"/>neſs of the Crime much doubted of: for all the baſe Reflections, Slanders, and moſt aſtoniſhing Accuſations and Cenſures, I beg Par<g ref="char:EOLhyphen"/>don of all good men, and their Prayers to God, that I may obtain Pardon and Forgiveneſs at his Hand.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="43" facs="tcp:105323:25"/>
+            <head>POSTSCRIPT.</head>
+            <p>THis <hi>NARRATIVE</hi> was prepar'd for the Preſs ſoon after the Death of Mr. <hi>Child,</hi> but the Severity of the Times were ſuch, that no Printer would undertake it, nor durst the Com<g ref="char:EOLhyphen"/>pilers appear to own it; not that the Matter of Fact, in any reſpect, wanted of truth, or the Language harſh and reflecting on the <hi>Church of England;</hi> we hope we may, without vanity, ſay, that it's written with a Temper ſutable to the Profeſſion we have always made of Love and Charity to thoſe that differ from us, and though the face of Affairs in this Nation be ſince changed, through the Goodneſs of God, and the gracious Favour of his Majeſty towards us, we purpoſe in all our Actings, to ſhew the ſame Spirit and Temper towards all Chri<g ref="char:EOLhyphen"/>ſtians, of what Perſwaſion ſoever, and we would by no means have this Conſtruction paſs upon the Publication of this <hi>Narrative</hi> at this time, as if we deſign'd to make the <hi>Church of England</hi> odious, by refreſhing the Memory of ſo dreadful an Accident, which was the na<g ref="char:EOLhyphen"/>tural effect of ſome of their Perſecutions: God is our Witneſs, our naked Deſign being only to Arraign the Practice of Perſecution it ſelf, without reflecting on any who have been the Inſtruments, hoping Time, and this Glorious Deſign of his Majeſty's, will have ſuch an happy iſſue, as to put all that profeſs to be the Followers of Christ, into ſuch a condi<g ref="char:EOLhyphen"/>tion, as to ſee it is their Intereſt, as well as their Duty, not to Contend for Perſecution, and if our Paſſions be cool'd, by wanting Power to do Miſchief, the thing its ſelf, <hi>viz.</hi> the Doctrine of Perſecution, may be ſafer diſcuſs'd in the lawfulneſs of it.</p>
+            <p>We had a Deſign to have Publiſh'd ſomething in this <hi>Poſtſcript,</hi> tending to a Hearty Union and Love among all Chriſtians, which is alſo intimated in the beginning of the <hi>Narrative,</hi> but the preſent Temper of ſome Mens Zeal, which ſets their Paſſions on fire, will render a Diſcourſe of this Nature, of little uſe, they contending to pre<g ref="char:EOLhyphen"/>ſerve the Inſtruments of our Ruine, and we the removal of them;
+<pb n="44" facs="tcp:105323:26"/>and we believe all thinking Men will agree with us, that we have ground for this Apprehenſion: All we ſhall ſay to it, at preſent, is, that we hope our Actions ſhall conſtantly witneſs to the truth of this, that we deſign nothing, but to be in a capacity of living quietly by our Neighbours, and ſhewing how much we love and value thoſe that differ from us, by forgetting Injuries, and ſtriving who ſhall ſhew moſt of the Spirit of the bleſſed Jeſus, which conſiſts in Meekneſs, Forgiveneſs, and Forbearance.</p>
+            <p>That which we ſhall add, with reſpect to the <hi>Narrative</hi> its ſelf, is this, That it's a true and dreadful Inſtance of a Man ſcar'd into Conformity, by the Severity he ſaw on others, and in part felt himſelf; that the Temptation met with his Corruptions, (which, if his own charge on himſelf be not too ſevere) you ſee verified by his own Papers; yet this excuſeth not the Doctrine and Practice of Perſecution; if ſo Satan might waſh his hands alſo of the Sins of Men, and though ſome Men may know the beginnings of Sins, yet none knows the bounds of it: ſo, after his Conformity, he drew his Pen, and dipt it in Gall against his Brethren, going on to do violence to his Conſcience, till God in a dread<g ref="char:EOLhyphen"/>ful manner awaken'd it against himſelf, ſo as prov'd terrible to all the beholders, as well as to himſelf, the Particulars whereof ſhall not be re<g ref="char:EOLhyphen"/>peated; we account it a loud Voice against Perſecution, and durst not ſilence it, lest we ſhould betray this Witneſs of God against it; we know Authorities of Scripture and Reaſon are best to work upon the Judgment, to convince the World of the error, of doing that to o<g ref="char:EOLhyphen"/>thers, that would not they ſhould do to them: but a Fact of this Na<g ref="char:EOLhyphen"/>ture may move the Affections, and corroborate that Light that Men receive from thence; and for this end it was at first intended to be publiſhed. It's a dreadful thing, not only to break in upon the Civil Rights of Men, on account of Religion, but far more to be Inſtru<g ref="char:EOLhyphen"/>ments, to put any upon ſuch ways, which not only endanger their Peace of Conſcience here, but their Eternal Welfare hereafter; and this Evil we are bold to charge Perſecution with, and have evidence enough for it in this very Inſtance.</p>
+            <p>The Diſcourſe of the <hi>Nature and Office of Conſcience,</hi> that you find in the beginning of the <hi>Narrative,</hi> was written by a worthy Bro<g ref="char:EOLhyphen"/>ther of ours, for Private Satisfaction, which we have preſumed to pub<g ref="char:EOLhyphen"/>liſh, we humbly conceiving it to be for Publick Good.</p>
+            <p>The Concluſions that we think are natural from the foregoing <hi>Narra<g ref="char:EOLhyphen"/>rative,</hi> is:</p>
+            <pb n="45" facs="tcp:105323:26"/>
+            <p>
+               <hi>Firſt,</hi> That all Men be exceeding careful of bidding Defiances to their Conſciences; out of it may come a ſtrong Wind, that rends the Rocks: however ſome Men may not taſte that ſeverity this Man did, but go to the Grave with their Bones full of Marrow, yet it's certain<g ref="char:EOLhyphen"/>ly the Duty and Interest of every Man, to take diligent heed to keep a Conſcience void of offence towards God and Man, that they may eſcape that Shipwrack that this Man, and other Inſtances of the World, of the like nature, have met with. God ſometimes makes ſome Men Pil<g ref="char:EOLhyphen"/>lers of Salt, that the ſecure World may be awakened, and that Atheiſts and Prophane Perſons may tremble at the living Inſtances of the Sove<g ref="char:EOLhyphen"/>reignty of the Divine Majeſty, in and over the Conſciences of Men, which they would outbrave or deny the Almighty God can create a Hell on this ſide Hell in the Conſciences of Men, the Fire of which, nei<g ref="char:EOLhyphen"/>ther the Artifice of Men, nor Time, not the Application of the Promi<g ref="char:EOLhyphen"/>ſes of the Goſpel, (though the fittest <hi>Mediums</hi>) can extinguiſh. An Inſtance of this you have in what the Friends of this Man did, who with great tenderneſs endeavour'd to do all they could in this kind, but without ſucceſs, and, as is apparent in the precedent <hi>Narrative,</hi> they had not the humors of a Man under Natural Melancholy to deal with, but a Man purely under the dreadful Terrors of a guilty and an enrag'd Con<g ref="char:EOLhyphen"/>ſcience; a Man of ſo ſound and ſtrong a Conſtitution of Body, that all that knew him, even to the laſt, could and did eaſily diſcern his Diſeaſe was purely Spiritual.</p>
+            <p>
+               <hi>Secondly,</hi> We conceive, at this time of day at leaſt, it may put our Country-men, who have hitherto been of a contrary Opinion, to a ſerious thought, whether that Practice be of God, that is attended with ſuch dread<g ref="char:EOLhyphen"/>ful Inſtances of this Nature, and we the rather conceive this <hi>Narrative</hi> uſeful at this time, becauſe the Eye of the whole Nation are upon, and their Thoughts are at work about theſe Inſtruments; we mean; the <hi>Penal Laws,</hi> which have made ſuch havock on the Liberties, Perſons, and Eſtates of Men; and on the Conſciences of many others, who yet, by the goodneſs of God, have not felt the Dreadful Effects this Man did, and we pray God they never may.</p>
+            <p>And above all, ſince his Gracious Majeſty, by the goodneſs of God, hath publiſhed His Royal Declaration, for <hi>Liberty of Conſcience,</hi> and upon ſuch Grounds and Reaſons, as we conceive are unanſwerable, out doing all King and Princes, not only in the Fact of his Clemency, but in the Reaſon of it: and as it is that that will be to his immortal Honour, ſo we hope, that it will have that Perfection by Law, that may for ever deliver this Nation from the Convulſions and Evils it has labour'd under in former
+<pb n="46" facs="tcp:105323:27"/>Years, and render us ſo happy, as not any more ſo much as to dispute what her Perſecution be agreeable to the Divine Law.</p>
+            <p>We confeſs we moſt willingly fall in with his Majeſty's gracious Designs, and ſhall, to our utmoſt, endeavour to carry them on, not knowing a greater Service we can be capable of, rendring to God, to our Prince, our Country, or Religion; we certainly believe, that if once we were on even ground with our Fellow-Subjects, it will be eaſie to let them ſee the goodneſs and benefit of <hi>Liberty of Conſcience,</hi> and how juſt it is, that Religion ſhould be left to him who is the Object of it, to correct the Errors of Men about it, and we have not only the Authority of Scriptures, and right Reaſon, but alſo Suffrage of his gracious Majeſty to this Aſſertion.</p>
+            <p>We conclude, humbly imploring the Divine Bleſſing on the Perſon and Councels of the King, by whom we ſit under our Vine and Fig-tree, and pray he may live to ſee the Top ſtone of this glorious Fabrick of <hi>Liberty of Conſcience</hi> laid, and that He and his People may long live to enjoy the Bleſſings of it, and that Piety to God, and that Charity to Men, which we be<g ref="char:EOLhyphen"/>lieve are natural Fruits of this Liberty, may flouriſh in this Kingdom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Some <hi>BOOKS</hi> Printed for <hi>Tho. Fabian,</hi> at the <hi>Bible</hi> in S. <hi>Paul</hi>'s Church-Yard, a Corner-Shop, next <hi>Cheap ſide, 1688.</hi>
+            </head>
+            <p>A Sermon taken out of an <hi>Oxford</hi> Scholar's Pocket, who was found Dead in <hi>Biſhop</hi>'s-Wood, <hi>near</hi> High-gate, on <hi>Munday, F<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b.</hi> 15. 168<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Together with a True Relation of the Manner of his being Diſcovered there. Now Publiſh'd for the Publick Good. <hi>Quarto.</hi>
+            </p>
+            <p>The Pacquet of Letters. <hi>Quarto.</hi>
+            </p>
+            <p>Biſhop <hi>Uſher</hi>'s Method of Teaching true <hi>Engliſh. Octavo.</hi>
+            </p>
+            <p>
+               <hi>Gouges</hi> Word to Saints and Sinners. <hi>Octavo.</hi>
+            </p>
+            <p>The Spiritual Guide, which Diſintangles the Soul, and brings it by the Inward Way, to the getting of Perfect Contemplat<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, and the Rich Treaſure of Internal Peace. Written by Dr. <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Mol<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nos,</hi> Prieſt. With a ſhort Treatiſe concerning Daily Commu<g ref="char:EOLhyphen"/>munion, by the ſame Author. Tranſlated from the <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Printed at <hi>Venice,</hi> 1685. <hi>Twelves.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
